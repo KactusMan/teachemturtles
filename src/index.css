@@ -3,11 +3,33 @@
 @tailwind utilities;
 
 
+body {
+  overflow-x: hidden;
+}
+
 
 .darkmode-button {
   position: absolute;
-  right: 0;
+  right: -80%;
 }
+
+
+.nav {
+  position: absolute;
+  left: 32%;
+  top: 1.9%;
+ 
+  
+}
+
+
+/* .squorble {
+  position: relative;
+ border-radius: 0.5em;
+  width: 70%;
+  background-color: rgb(154, 97, 134);
+} */
+
 
 /* .new {
   background-image: url("/public/assets/proper-morning-giphy.gif");

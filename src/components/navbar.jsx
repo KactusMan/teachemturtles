@@ -26,18 +26,35 @@ const handleThemeSwitch = (() => {
 
 
   return (
-    <div className='w-100 bg-red-200 dark:bg-purple-200 flex justify-center  '>
+    <div className='w-100 transparent  dark:bg-purple-200  '>
      
 
-     <div class="toggle hidden w-full md:w-auto md:flex text-right text-bold mt-5 md:mt-0 border-t-2 border-blue-900 md:border-none">        
-        <a href="#" class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Home</a>
-        <a href="#" class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Roadmap</a>
+     <div class="w-full md:w-auto  text-right text-bold mt-5 md:mt-0 absolute nav border-t-2 border-blue-900 md:border-none  ">        
+     <div className="lg:flex  lg:items-center  ">
+        <ul className="flex space-x-6">
+          <a href="/">
+          <li className="text-lg 
+                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
+                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Utilities & Perks</li></a>
+          <li className="text-lg 
+                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
+                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Roadmap</li>
+          <li className="text-lg 
+                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3]  bg-opacity-10  
+                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Turtle Team</li>
+          <li className="text-lg  
+                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
+                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row  font-bold leading-[20px] text-center text-[#DDDDDD] cursor-pointer">Mint Details</li>
+        </ul>
        
-        <a href="#" class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Uility</a>
-        <a href="#" class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Meet The Team</a>
-        <button className='bg-green-200 p-3 darkmode-button rounded-3xl '  onClick={handleThemeSwitch}>
+       
+     
+        <button className='bg-[#edbeb7] p-2 darkmode-button rounded-3xl text-lg 
+                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
+                              items-center relative h-7 items-center font-mono tracking-wider pt-1.1 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer '  onClick={handleThemeSwitch}>
         Dark mode
       </button>
+      </div>
       </div>   
 
      
