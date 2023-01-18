@@ -29,7 +29,8 @@ function MyComponent() {
     className='lg:w-screen'
     src={image}
     type="video/mp4"
-    loop
+    loop="true"
+    autoplay="true"
     
     
     />
