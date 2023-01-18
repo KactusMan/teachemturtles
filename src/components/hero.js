@@ -26,7 +26,7 @@ function MyComponent() {
 
   return (
     <video 
-    
+    className='lg:w-screen'
     src={image}
     type="video/mp4"
     loop
