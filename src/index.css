@@ -18,8 +18,12 @@ body {
   position: absolute;
   left: 32%;
   top: 1.9%;
- 
+  z-index: 100;
   
+}
+
+video {
+  z-index: -100;
 }
 
 
