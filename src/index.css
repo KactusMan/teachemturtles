@@ -2,13 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+
+.manrope {
+  font-family:'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 500;
+/* font-size: 20px; */
+
+text-transform: uppercase;
+
+color: #FFD664;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
 
 body {
   overflow-x: hidden;
 }
 
 
-.darkmode-button {
+
+/* .darkmode-button {
   position: absolute;
   right: -80%;
 }
@@ -20,11 +39,98 @@ body {
   top: 1.9%;
   z-index: 100;
   
+} */
+.hr-div-1 {
+  /* position: relative;
+  width: 111.5%;
+  margin-bottom: 1.5em; */
+  border-color: #F4D37C;
+  border-width: 1px;
+
+
+}
+
+.hr-div-2 {
+  /* position: relative;
+  width: 93%;
+  left: 4%;
+  margin-bottom: 1.5em; */
+  border-color: #F4D37C;
+  border-width: 1px;
 }
 
 video {
   z-index: -100;
 }
+
+/* .logo-div {
+
+  width: 10%;
+  position: absolute;
+  left: 45%;
+  right: 0%;
+  bottom: 42%;
+} */
+.logo {
+  object-fit: cover;
+}
+
+.parent {
+  position: absolute;
+  top: 10%;
+  display: grid;
+  grid-template-columns: repeat(5, 0.15fr) 0.1fr 0.2fr;
+  grid-template-rows: 0.2fr;
+  grid-column-gap: 26px;
+  grid-row-gap: 0px;
+  /* background-color: ; */
+
+  width: 100%;
+  }
+  
+  .div1 { 
+    grid-area: 1 / 1 / 2 / 4;
+    z-index: 100;
+   
+  }
+  
+  .div2 { 
+  grid-area: 1 / 5 / 2 / 9;
+  /* top: 60px; */
+  position: relative;
+    bottom: 6%;
+  z-index: 100; 
+  }
+
+/* span {
+  margin-bottom: -5%;
+} */
+
+
+
+  .disc-img {
+    
+    /* position: relative;
+    top: 25%;
+    left: 7%;
+    width: 25px; */
+
+  }
+.twitter-img {
+  /* position: relative;
+    bottom: 18%;
+    left: 22%;
+    width: 25px; */
+}
+.os, .wallet {
+  position: relative;
+  bottom: 40.5%;
+
+  left: 36%;
+}
+
+
+
 
 
 /* .squorble {

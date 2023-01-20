@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import dayImage from '../assets/final-morning.mp4';
-import nightImage from '../assets/final-night.mp4';
+import nightImage from '../assets/final-morning.mp4';
 
 function MyComponent() {
   // Declare a new state variable, which we'll call "image"
@@ -26,11 +26,11 @@ function MyComponent() {
 
   return (
     <video 
-    className='lg:w-screen'
+    className='xl:w-screen lg:w-screen md:w-screen'
     src={image}
     type="video/mp4"
-    loop="true"
-    autoplay="true"
+    loop={true}
+    autoPlay={true}
     
     
     />

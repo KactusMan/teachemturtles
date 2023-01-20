@@ -1,24 +1,28 @@
+
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 
 
-function Navbar() {
+ function Navbar() {
 
-const [theme, setTheme] = useState("light");
+
   
-useEffect(() => {
-  if (theme === 'dark') {
-  document.documentElement.classList.add("dark")
-   } else {
-    document.documentElement.classList.remove("dark")
-   }
-}, [theme])
 
-const handleThemeSwitch = (() => {
-  setTheme(theme === "dark" ? "light" : "dark");
-})
+// const [theme, setTheme] = useState("light");
+  
+// useEffect(() => {
+//   if (theme === 'dark') {
+//   document.documentElement.classList.add("dark")
+//    } else {
+//     document.documentElement.classList.remove("dark")
+//    }
+// }, [theme])
+
+// const handleThemeSwitch = (() => {
+//   setTheme(theme === "dark" ? "light" : "dark");
+// })
 
 
 
@@ -26,45 +30,46 @@ const handleThemeSwitch = (() => {
 
 
   return (
-    <div className='w-100 transparent  dark:bg-purple-200  '>
-     
+    <div className="parent lg:w-screen xl:w-screen 2xl:w-screen">
 
-     <div class="w-full md:w-auto  text-right text-bold mt-5 md:mt-0 absolute nav border-t-2 border-blue-900 md:border-none  ">        
-     <div className="lg:flex  lg:items-center  ">
-        <ul className="flex space-x-6">
-          <a href="/">
-          <li className="text-lg 
-                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
-                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Utilities & Perks</li></a>
-          <li className="text-lg 
-                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
-                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Roadmap</li>
-          <li className="text-lg 
-                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3]  bg-opacity-10  
-                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer">Turtle Team</li>
-          <li className="text-lg  
-                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
-                              items-center relative h-7 items-center font-mono tracking-wider pt-0.5 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row  font-bold leading-[20px] text-center text-[#DDDDDD] cursor-pointer">Mint Details</li>
-        </ul>
-       
-       
-     
-        <button className='bg-[#edbeb7] p-2 darkmode-button rounded-3xl text-lg 
-                              text-white hover:dark:text-black bg-white hover:bg-[#cf89ac] hover:dark:bg-[#F8EDE3] bg-opacity-10  
-                              items-center relative h-7 items-center font-mono tracking-wider pt-1.1 first::pt-0 duration-200 uppercase text-2xs font-500 padding-huge duration-200 items-center px-4 rounded flex justify-center flex-row font-bold leading-[20px] text-center text-[#DDDDDD]  cursor-pointer '  onClick={handleThemeSwitch}>
-        Dark mode
-      </button>
-      </div>
-      </div>   
-
-     
-
+      {/* left div, div 1 of grid */}
       
-    
-    
+      <div className="div1   lg:p-10 lg:bottom-[18%] relative xl:bottom-[6%] xl:p-10  2xl:p-10 2xl:bottom-[6%]">
+        <hr className="hr-div-1 xl:w-[106%] xl:mb-[1.5em] 2xl:w-[100%] 2xl:mx-[2.2%] 2xl:mb-[1.5em]" />
+
+      <span className=" manrope lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10   xl:p-10 2xl:p-10 2xl:mx-[2%] relative  ">Home</span>
+      <span className=" manrope lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Roadmap</span>
+      <span className=" manrope lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">FAQ</span>
+      <span className=" manrope lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Team</span>
+      </div>
+
+        <div className="logo-div relative lg:w-[100%] lg:bottom-[26%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%] 2xl:w-[100%] 2xl:left-[22%] 2xl:bottom-[26%]">
+          <img className="logo " src="./assets/turtle-logo.png" alt="turtles" />
+        </div>
+
+        {/* right div, div 2 of grid */}
+
+      <div className="div2 lg:p-10   xl:p-10 lg:mx-[-4.9%] lg:bottom-[18%] relative  xl:mx-[-4.9%] xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
+      <hr className="hr-div-2 xl:w-[93%] xl:mb-[1.5em] 2xl:w-[100%]"/>
+      
+      <a href="discord.gg/teachemturtles">
+      <img  className=" disc-img  lg:w-[20px]  xl:mx-[8%]  xl:w-[24px] 2xl:w-[45px] 2xl:top-[20%] 2xl:mx-[8%] relative"  src="./assets/Discord-icon.png" alt="discord" />
+      </a>
+      
+
+      <a href="twitter.com/teachemturtles">
+      <img  className=" twitter-img lg:w-[20px] xl:mx-[24%] xl:w-[24px] xl:bottom-[20%] 2xl:w-[45px] 2xl:mx-[24%] 2xl:bottom-[10%] relative"  src="./assets/Twitter-icon.png" alt="twitter" />
+      </a>
+      
+      <a href="https://opensea.io">
+      <span className="os manrope xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-2%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
+      </a>
+      <span className="wallet manrope xl:text-[15px]  xl:p-8 lg:text-[12px]  lg:p-8 2xl:p-8 2xl:text-[22px]">Connect Wallet</span>
+      
+      </div>
+      
     </div>
-    
   );
-}
+  }
 
 export default Navbar;
