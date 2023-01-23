@@ -62,9 +62,9 @@
       </a>
       
       <a href="https://opensea.io">
-      <span className="os manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-2%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 relative">Opensea</span>
+      <span className="os manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[7%] 2xl:mx-[14%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
       </a>
-      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px]  lg:p-8 2xl:p-8 2xl:text-[22px] relative">Connect Wallet</span>
+      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span>
       
       </div>
       
