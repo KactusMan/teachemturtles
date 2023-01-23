@@ -29,6 +29,16 @@ color: #FFD664;
   font-weight: 400;
   font-size: 10rem;
   color: #A17602;
+
+}
+
+.batsand-dark {
+  font-family: batsand;
+  font-weight: 400;
+  font-size: 10rem;
+  color: #443626;
+ 
+
 }
 .roadmap-bg {
   background-color: #F4D37C;

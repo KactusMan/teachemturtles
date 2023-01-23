@@ -10,8 +10,8 @@ return (
 
         <div className="   absolute roadmap-bg">
             <img className=" opacity-100 z-100" src="./assets/texture-1.png" alt="texture" />
-            <h1 className=" opacity-70 lg:text-center  absolute xl:top-0 2xl:top-0 2xl:mx-[32.2%]  xl:mx-[23.9%] batsand "> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
-
+            <h1 className=" opacity-100 lg:text-center z-20  absolute xl:top-0 2xl:top-0 2xl:mx-[32.2%]  xl:mx-[23.9%] batsand "> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
+            <h1 className=" opacity-100 lg:text-center z-10  absolute xl:top-0 2xl:top-0 2xl:mx-[32.2%]  xl:mx-[23.4%] batsand-dark"> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
 
             <div className="absolute box-1  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[30%] 2xl:top-[46%] 2xl:mx-[15.9%] xl:h-[30%]  opactiy-80 xl:top-[66%]  xl:mx-[13.9%]">
 

@@ -43,7 +43,7 @@
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10 lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Team</span>
       </div>
 
-        <div className="logo-div relative lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%] 2xl:w-[100%] 2xl:left-[22%] 2xl:bottom-[26%]">
+        <div className="logo-div relative lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%] 2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
           <img className="logo " src="./assets/turtle-logo.png" alt="turtles" />
         </div>
 
