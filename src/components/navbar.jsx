@@ -30,7 +30,7 @@
 
 
   return (
-    <div className="parent md:w-screen lg:w-[100%] xl:w-[100%] 2xl:w-[100%]">
+    <div className="parent md:w-screen lg:w-[100%] xl:w-[100%] 2xl:w-[100%] text-center">
 
       {/* left div, div 1 of grid */}
       
@@ -49,7 +49,7 @@
 
         {/* right div, div 2 of grid */}
 
-      <div className="div2 lg:p-10 lg:bottom-[37%]  xl:p-10 lg:mx-[-4.9%] lg:bottom-[18%] relative  xl:mx-[-4.9%] xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
+      <div className="div2 lg:p-10 lg:bottom-[37%]  xl:p-10 lg:mx-[-4.9%] lg:bottom-[18%] relative   xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
       <hr className="hr-div-2 lg:w-[86%] lg:mx-[5%] lg:mb-[1em] xl:w-[93%] xl:mb-[1.5em] 2xl:w-[100%]"/>
       
       <a href="discord.gg/teachemturtles">
@@ -62,9 +62,9 @@
       </a>
       
       <a href="https://opensea.io">
-      <span className="os manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-2%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
+      <span className="os manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-2%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 relative">Opensea</span>
       </a>
-      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px]  lg:p-8 2xl:p-8 2xl:text-[22px]">Connect Wallet</span>
+      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px]  lg:p-8 2xl:p-8 2xl:text-[22px] relative">Connect Wallet</span>
       
       </div>
       
