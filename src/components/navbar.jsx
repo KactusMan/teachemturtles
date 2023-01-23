@@ -30,7 +30,7 @@
 
 
   return (
-    <div className="parent md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
+    <div className="parent md:w-screen lg:w-[100%] xl:w-[100%] 2xl:w-[100%]">
 
       {/* left div, div 1 of grid */}
       

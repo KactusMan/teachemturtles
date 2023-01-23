@@ -85,6 +85,7 @@ color: #654A20;
 
 body {
   overflow-x: hidden;
+  max-width: 100%;
 }
 
 
@@ -139,6 +140,7 @@ video {
 
 .parent {
   position: absolute;
+  max-width: 100%;
   top: 10%;
   display: grid;
   grid-template-columns: repeat(5, 0.15fr) 0.1fr 0.2fr;
