@@ -44,6 +44,18 @@ color: #FFD664;
   background-color: #F4D37C;
   
 }
+.div-road {
+  background-color: #F4D37C;
+  /* background-image: url("../public/assets/texture-1.png"); */
+  /* background-repeat: no-repeat; */
+  
+}
+/* .left-tree {
+  position: absolute;
+  background-image: url("../public/assets/left-tree.png");
+  background-repeat: no-repeat;
+  z-index: -100;
+} */
 
 .dummy-1 {
   font-family: batsand;
