@@ -43,8 +43,8 @@
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10 lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Team</span>
       </div>
 
-        <div className="logo-div relative lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%] 2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
-          <img className="logo " src="./assets/turtle-logo.png" alt="turtles" />
+        <div className="logo-div bg-cover relative lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
+          <img className="logo bg-cover" src="./assets/turtle-logo.png" alt="turtles" />
         </div>
 
         {/* right div, div 2 of grid */}
@@ -61,8 +61,8 @@
       <img  className=" twitter-img lg:w-[24px] lg:mx-[26%] lg:bottom-[15%]  xl:mx-[24%] xl:w-[24px] xl:bottom-[20%] 2xl:w-[45px] 2xl:mx-[24%] 2xl:bottom-[10%] relative"  src="./assets/Twitter-icon.png" alt="twitter" />
       </a>
       
-      <a href="https://opensea.io">
-      <span className="os manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[7%] 2xl:mx-[14%] relative lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
+      <a href="https://opensea.io" >
+      <span className="os manrope-light  xl:text-[15px]  xl:w-10  xl:p-8 lg:text-[12px] xl:mx-[7%] 2xl:mx-[14%]  lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
       </a>
       <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span>
       
