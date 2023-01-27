@@ -94,7 +94,7 @@ return (
  {/* poker section starting from here */}
 
 
-<div className="absolute roadmap-bg xl:w-screen xl:h-[100%] 2xl:w-screen 2xl:h-[200%] ">
+<div className="absolute roadmap-bg xl:w-screen xl:h-[100%] 2xl:w-screen 2xl:h-[208%] ">
 
 <img className=" xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
 
@@ -172,15 +172,90 @@ return (
         <h3 className=" absolute team-lorem xl:text-center xl:p-14 xl:my-[105%] 2xl:my-[62%] 2xl:mx-[72%] "> lorem <br /> ipsumlorem  </h3>
 
 
- 
+ {/* team section ending */}
 </div>
                </div>
 
 
+{/* FAQ section */}
+
+
+<div className="absolute xl:w-screen 2xl:w-screen">
+                  <h1 className=" z-30  absolute  xl:my-[120%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[36%]    batsand xl:text-[150px]  2xl:text-[15rem]"> FAQS </h1>
+            <h1 className=" z-20  absolute xl:my-[120.4%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[36%]   batsand-dark xl:text-[150px] 2xl:text-[15rem]"> FAQS </h1>
+       
+{/* questions section */}
+
+<div className="absolute xl:w-[60%] xl:h-[100px] xl:mx-[13%] xl:my-[240%]  2xl:w-[70%] 2xl:h-[100px] 2xl:my-[236%] 2xl:mx-[13%] rounded-3xl faq">
+<h4 className=" xl:text-center 2xl:text-center faq-lorem xl:p-7  2xl:p-7 uppercase">q: lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
+</div>
+
+<div className="absolute xl:w-[60%] xl:h-[100px] xl:mx-[13%] xl:my-[240%]  2xl:w-[70%] 2xl:h-[100px] 2xl:my-[243%] 2xl:mx-[13%] rounded-3xl faq">
+<h4 className=" xl:text-center 2xl:text-center faq-lorem xl:p-7  2xl:p-7 uppercase">q: lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
+</div>
+
+<div className="absolute xl:w-[60%] xl:h-[100px] xl:mx-[13%] xl:my-[240%]  2xl:w-[70%] 2xl:h-[100px] 2xl:my-[250%] 2xl:mx-[13%] rounded-3xl faq">
+<h4 className=" xl:text-center 2xl:text-center faq-lorem xl:p-7  2xl:p-7 uppercase">q: lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
+</div>
+
+<div className="absolute xl:w-[60%] xl:h-[100px] xl:mx-[13%] xl:my-[240%]  2xl:w-[70%] 2xl:h-[100px] 2xl:my-[257%] 2xl:mx-[13%] rounded-3xl faq">
+<h4 className=" xl:text-center 2xl:text-center faq-lorem xl:p-7  2xl:p-7 uppercase">q: lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
+</div>
+
+
+<div className="absolute xl:w-[60%] xl:h-[100px] xl:mx-[13%] xl:my-[240%]  2xl:w-[70%] 2xl:h-[100px] 2xl:my-[264%] 2xl:mx-[13%] rounded-3xl faq">
+<h4 className=" xl:text-center 2xl:text-center faq-lorem xl:p-7  2xl:p-7 uppercase">q: lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
+</div>
+
+
+{/* faq section ending */}
+</div>
+
+{/* rocks section */}
+<div className="absolute xl:w-screen 2xl:w-screen">
+<img className="2xl:w-[50%] 2xl:justify-end absolute 2xl:my-[280%] 2xl:mx-[49%]" src="./assets/right-rock.png" alt="right-rock" />
+</div>
+
+{/* footer section */}
+<div className="absolute xl:w-screen 2xl:w-screen">
+
+                <div className="absolute xl:screen 2xl:w-screen footer-bg 2xl:my-[313%] 2xl:h-[300px]">
+
+<img className="2xl:w-[14%] bg-cover p-2 2xl:mx-[4%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
+
+
+<h5 className="footer-text 2xl:-my-[14%] 2xl:mx-[30%] 2xl:text-left "> We are community focused project with <br /> milestones of  helping the eco-system & <br /> donating to charity. Want to join the <br /> turtles? Check our socials</h5>
+<h5 className="absolute footer-text 2xl:my-[6%] 2xl:mx-[68%] 2xl:w-screen og-font 2xl:text-left uppercase"> og / wl spots inquiries </h5>
+<h6 className="absolute footer-text 2xl:my-[9%] 2xl:mx-[68%] 2xl:w-screen og-text 2xl:text-left "> Missed out on the OG spots? We can get you <br /> whitelist too? submit your email </h6>
+
+<img className="absolute 2xl:w-[2.6%] bg-cover  2xl:mx-[30%] 2xl:my-[15.1%]" src="./assets/Discord-icon.png" alt="discord-icon" />            
+<img className="absolute 2xl:w-[2.5%] bg-cover  2xl:mx-[48%] 2xl:my-[15.1%] " src="./assets/Twitter-icon.png" alt="twitter-icon" />            
+
+<h6 className=" discord-text 2xl:mx-[33.5%] 2xl:my-[15%] uppercase">Discord</h6>
+
+<h6 className=" discord-text 2xl:mx-[51.5%] 2xl:-my-[17.1%]  uppercase">@teachemturtles</h6>
+
+
+<div className="absolute xl:w-[60%] xl:h-[53px] xl:mx-[13%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
+<h4 className=" xl:text-center 2xl:text-left email-font xl:p-7 2xl:mx-[5%]  2xl:p-3 ">Email </h4>
+
+<div className="absolute xl:w-[60%] xl:h-[53px] xl:mx-[13%]  2xl:w-[28%] send-box  2xl:h-[60px] 2xl:mx-[72%] 2xl:-my-[13%] rounded-full  "> 
+<h4 className=" xl:text-center 2xl:text-center send-font xl:p-7 2xl:mx-[5%]  2xl:p-3 ">Send </h4>
+</div>
+
+</div>
+
+
+                </div>
+
+</div>
 
 
 
-                 {/* roadmap divs closing */}
+
+
+
+                 {/* overall roadmap divs closing */}
                            </div>
                            </div>
 

@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap');
 
 * {
   margin: 0;
@@ -92,6 +92,17 @@ color: #FFD664;
   
 }
 
+
+.faq-lorem {
+  font-family: 'Montserrat';
+  font-style: italic; 
+  font-size: 1.6rem;
+  font-weight: 600;
+  /* line-height: 30px; */
+  color: #261f16;
+  word-break: break-all;
+}
+
 .team-lorem {
   font-family: 'Montserrat';
  
@@ -152,6 +163,10 @@ color: #FFD664;
   border-radius: 20px 20px 20px 20px;
   border-width: 4px;
 
+}
+
+.faq {
+  background: rgba(136, 103, 66, 0.53);
 }
 
 .multiple-bg {
@@ -286,6 +301,76 @@ grid-template-rows: repeat(2, 1fr);
 grid-column-gap: 0px;
 grid-row-gap: 0px;
   
+}
+
+
+.footer-bg {
+  background-color: #BB9A5D;
+}
+.footer-text {
+  font-family: 'Montserrat';
+font-size: 1.8rem;
+font-style: normal;
+font-weight: 300;
+line-height:2.5rem;
+/* text-align: left; */
+
+
+  color: #FFFDC3;
+}
+
+.discord-text {
+  font-family: 'Montserrat';
+  font-style:normal;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height:2.5rem;
+  color: #FFFDC3;
+}
+
+.email-box {
+  background-color:#F4D37C;
+
+}
+
+.email-font {
+  font-family: 'Montserrat';
+font-size: 1.7rem;
+font-weight: 400;
+color: #44362680;
+
+
+}
+
+.send-box {
+  background: rgba(68, 54, 38, 0.7);
+}
+
+.send-font {
+  font-family: 'Montserrat';
+  font-size: 1.7rem;
+  font-weight: 400;
+  
+  color: #F4D37C;
+
+}
+.og-font {
+  font-family: 'Montserrat';
+font-size: 1.7rem;
+font-style: italic;
+font-weight: 600;
+line-height: 27px;
+color:#443626;
+}
+
+.og-text {
+  font-family: 'Montserrat';
+font-size: 1.5rem;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: #443626;
+
 }
 
 
