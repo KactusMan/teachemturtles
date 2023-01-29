@@ -96,7 +96,7 @@ color: #FFD664;
 .faq-lorem {
   font-family: 'Montserrat';
   font-style: italic; 
-  font-size: 1.6rem;
+  /* font-size: 1.6rem; */
   font-weight: 600;
   /* line-height: 30px; */
   color: #261f16;
@@ -309,7 +309,7 @@ grid-row-gap: 0px;
 }
 .footer-text {
   font-family: 'Montserrat';
-font-size: 1.8rem;
+/* font-size: 1.8rem; */
 font-style: normal;
 font-weight: 300;
 line-height:2.5rem;
@@ -322,7 +322,7 @@ line-height:2.5rem;
 .discord-text {
   font-family: 'Montserrat';
   font-style:normal;
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
   font-weight: 400;
   line-height:2.5rem;
   color: #FFFDC3;
@@ -335,7 +335,7 @@ line-height:2.5rem;
 
 .email-font {
   font-family: 'Montserrat';
-font-size: 1.7rem;
+/* font-size: 1.7rem; */
 font-weight: 400;
 color: #44362680;
 
@@ -348,7 +348,7 @@ color: #44362680;
 
 .send-font {
   font-family: 'Montserrat';
-  font-size: 1.7rem;
+  /* font-size: 1.7rem; */
   font-weight: 400;
   
   color: #F4D37C;
@@ -356,7 +356,7 @@ color: #44362680;
 }
 .og-font {
   font-family: 'Montserrat';
-font-size: 1.7rem;
+/* font-size: 1.7rem; */
 font-style: italic;
 font-weight: 600;
 line-height: 27px;
@@ -365,7 +365,7 @@ color:#443626;
 
 .og-text {
   font-family: 'Montserrat';
-font-size: 1.5rem;
+/* font-size: 1.5rem; */
 font-weight: 400;
 line-height: 32px;
 text-align: left;
