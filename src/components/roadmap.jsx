@@ -98,8 +98,8 @@ function Roadmap() {
         
         <img className=" xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
-        <h1 className=" opacity-100     z-30  absolute xl:top-[3%] 2xl:top-0 2xl:mx-[51.2%]  2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] xl:w-max   xl:mx-[46.9%]  poker xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
-                    <h1 className=" opacity-100 z-20  absolute xl:top-[3%]  2xl:mx-[50.8%] 2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] 2xl:top-4 xl:w-max  xl:mx-[46.4%] poker-dark xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
+        <h1 className=" opacity-100     z-30  absolute xl:top-[1.5%] 2xl:top-0 2xl:mx-[51.2%]  2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] xl:w-max   xl:mx-[47.9%]  poker xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
+                    <h1 className=" opacity-100 z-20  absolute xl:top-[1.5%]  2xl:mx-[50.8%] 2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] 2xl:top-4 xl:w-max  xl:mx-[47.4%] poker-dark xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
         </div>        
                 
         
