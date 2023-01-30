@@ -10,21 +10,25 @@ function Roadmap() {
         
         
         
-                <div className="   absolute roadmap-bg   2xl:h-[320%] ">
+                <div className="   absolute roadmap-bg xl:w-screen   2xl:h-[320%] ">
                     <img className="  opacity-100 z-50  " src="./assets/texture-1.png" alt="texture" />
                     <img className=" absolute xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
                     <img className=" absolute xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
+                    <img className="absolute xl:-z-0 xl:top-[-22%] " src="./assets/left-boulder.png" alt="left-boulder" />
+                    <img className="absolute xl:-z-0 xl:right-0 xl:top-[-18%]" src="./assets/right-boulder.png" alt="right-boulder" />
+                    <img className="absolute xl:-z-0 xl:right-6 xl:top-[13%]" src="./assets/pebble-right.png" alt="right-pebble" />
+                    <img className="absolute xl:-z-0 xl:left-6 xl:top-[10%]" src="./assets/pebble-left.png" alt="left-pebble" />
                     
-                    <h1 className=" opacity-100  z-30  absolute xl:top-14 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40    xl:mx-[23%] batsand xl:text-[9.3rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
-                    <h1 className=" opacity-100 z-20  absolute xl:top-14  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4  xl:mx-[23.4%] batsand-dark xl:text-[9.5rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
+                    <h1 className=" opacity-100  z-30  absolute xl:top-20 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
+                    <h1 className=" opacity-100 z-20  absolute xl:top-20  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> ROAD MAP &nbsp;  </h1>
          
                     <div className="absolute box-1   border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
                         
                                 <div className=" xl:text-center 2xl:text-center  ">
         
-                                        <h4 className="dummy-1 opacity-70 xl:my-[2%] 2xl:my-[4%]">dummy text</h4>
-                                        <h6 className="inner-dummy opacity-70"> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
+                                        <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%]">dummy text</h4>
+                                        <h6 className="inner-dummy "> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
                                 </div>
                                 
         
@@ -40,8 +44,8 @@ function Roadmap() {
                         
         <div className=" xl:text-center 2xl:text-center z-10 ">
         
-                <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%] opacity-70">dummy text</h4>
-                <h6 className="inner-dummy opacity-70"> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
+                <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%] ">dummy text</h4>
+                <h6 className="inner-dummy "> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
         </div>
         
         
@@ -61,8 +65,8 @@ function Roadmap() {
                         
         <div className=" xl:text-center 2xl:text-center ">
         
-                <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%] opacity-70">dummy text</h4>
-                <h6 className="inner-dummy opacity-70"> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dumm-y text Dummy text Dummy text Dummy text Dummy text </h6>
+                <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%] ">dummy text</h4>
+                <h6 className="inner-dummy "> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dumm-y text Dummy text Dummy text Dummy text Dummy text </h6>
         </div>
         
         
@@ -79,8 +83,8 @@ function Roadmap() {
                         
         <div className=" xl:text-center 2xl:text-center ">
         
-                <h4 className="dummy-1 opacity-70 xl:my-[2%] 2xl:my-[4%]">dummy text</h4>
-                <h6 className="inner-dummy opacity-70"> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
+                <h4 className="dummy-1  xl:my-[2%] 2xl:my-[4%]">dummy text</h4>
+                <h6 className="inner-dummy "> Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </h6>
         </div>
         
         
@@ -94,7 +98,7 @@ function Roadmap() {
          {/* poker section starting from here */}
         
         
-        <div className="absolute roadmap-bg xl:w-screen xl:h-[220%] 2xl:w-screen 2xl:h-[199%] ">
+        <div className="absolute roadmap-bg xl:w-screen xl:h-[218%] 2xl:w-screen 2xl:h-[201%] ">
         
         <img className=" xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -116,7 +120,7 @@ function Roadmap() {
         
                 
         <h1 className=" absolute xl:break-words z-20 xl:top-2  2xl:top-0 2xl:mx-[32.3%] 2xl:mt-0 xl:mx-[34%] 2xl:text-[8rem] xl:max-w-4xl 2xl:max-w-4xl 2xl:break-words   xl:text-center  join xl:text-[80px] "> JOIN US!  </h1>
-        <h1 className=" absolute xl:break-words z-30 xl:top-2  2xl:top-0 2xl:mx-[33%] 2xl:mt-0 xl:mx-[34%] 2xl:text-[8rem] xl:max-w-4xl 2xl:max-w-4xl 2xl:break-words   xl:text-center  join-dark xl:text-[80px] "> JOIN US!  </h1>
+        <h1 className=" absolute xl:break-words z-30 xl:top-2  2xl:top-0 2xl:mx-[33%] 2xl:mt-0 xl:mx-[34.8%] 2xl:text-[8rem] xl:max-w-4xl 2xl:max-w-4xl 2xl:break-words   xl:text-center  join-dark xl:text-[80px] "> JOIN US!  </h1>
          
                     <h1 className=" lorem xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%] "> lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h1>
                         <h6 className="inner-dummy 2xl:mt-8"> Don't miss our next event! Check our twitter @teachemturtles & discord here.</h6>
@@ -131,8 +135,8 @@ function Roadmap() {
         
                <div className="absolute xl:w-screen 2xl:w-screen  ">
         
-               <h1 className=" z-30  absolute  xl:my-[73%] 2xl:my-[70%] 2xl:mx-[30.2%]  xl:w-max  xl:mx-[30%]   batsand xl:text-[150px]  2xl:text-[11rem]"> ECOSYSTEM <br /> FRIENDLY  </h1>
-                    <h1 className=" z-20  absolute xl:my-[72.4%] 2xl:my-[70%]  2xl:mx-[29.8%] 2xl:top-4 xl:w-max xl:mx-[30%]   batsand-dark xl:text-[150px] 2xl:text-[11rem]"> ECOSYSTEM <br /> FRIENDLY  </h1>
+               <h1 className=" z-30  absolute  xl:my-[73%] 2xl:my-[70%] 2xl:mx-[30.2%]  xl:w-max  xl:mx-[34%]   batsand xl:text-[120px]  2xl:text-[11rem]"> ECOSYSTEM <br /> FRIENDLY  </h1>
+                    <h1 className=" z-20  absolute xl:my-[72.4%] 2xl:my-[70%]  2xl:mx-[29.8%] 2xl:top-4 xl:w-max xl:mx-[34%]   batsand-dark xl:text-[120px] 2xl:text-[11rem]"> ECOSYSTEM <br /> FRIENDLY  </h1>
                  <h4 className=" absolute lorem xl:text-center xl:p-14 xl:my-[105%] 2xl:my-[95%] 2xl:p-20"> lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumloremlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumloremlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem </h4>
                </div>
         
@@ -142,8 +146,8 @@ function Roadmap() {
         
         
         <div className="absolute xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30  absolute  xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[36%]    batsand xl:text-[150px]  2xl:text-[15rem]"> TEAM </h1>
-                    <h1 className=" z-20  absolute xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[36%]   batsand-dark xl:text-[150px] 2xl:text-[15rem]"> TEAM </h1>
+                          <h1 className=" z-30  absolute  xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[15rem]"> TEAM </h1>
+                    <h1 className=" z-20  absolute xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> TEAM </h1>
                
         
         <div className="absolute xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
@@ -181,8 +185,8 @@ function Roadmap() {
         
         
         <div className="absolute xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30  absolute  xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[36%]    batsand xl:text-[150px]  2xl:text-[15rem]"> FAQS </h1>
-                    <h1 className=" z-20  absolute xl:my-[220.4%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[36%]   batsand-dark xl:text-[150px] 2xl:text-[15rem]"> FAQS </h1>
+                          <h1 className=" z-30  absolute  xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
+                    <h1 className=" z-20  absolute xl:my-[220.8%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> FAQS </h1>
                
         {/* questions section */}
         
@@ -215,6 +219,8 @@ function Roadmap() {
         {/* rocks section */}
         <div className="absolute xl:w-screen 2xl:w-screen">
         <img className=" xl:w-[40%] xl:justify-end xl:my-[295%] xl:mx-[59%] 2xl:w-[50%] 2xl:justify-end absolute 2xl:my-[280%] 2xl:mx-[49%]" src="./assets/right-rock.png" alt="right-rock" />
+        <img className="xl:w-[4%] absolute xl:justify-center xl:my-[305%] xl:mx-[44%]"  src="./assets/middle-rock.png" alt="middle-rock" />
+        <img className="xl:w-[10%] absolute xl:justify-start xl:my-[305%] xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
         </div>
         
         {/* footer section */}
