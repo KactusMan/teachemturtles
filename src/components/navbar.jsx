@@ -38,10 +38,23 @@
         <hr className="hr-div-1 lg:w-[106%] lg:mb-[1em]  xl:w-[106%] xl:mb-[1.5em] 2xl:w-[100%] 2xl:mx-[2.2%] 2xl:mb-[1.5em]" />
 
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10  lg:p-10   xl:p-10 2xl:p-10 2xl:mx-[2%] relative  ">Home</span>
+    
+     <a href="#roadmap">
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10 lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Roadmap</span>
+      </a>
+
+      <a href="#faq">
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10 lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">FAQ</span>
+      </a>
+
+
+      <a href="#team">
       <span className=" manrope-light lg:text-[12px] xl:text-[15px] 2xl:text-[22px] md:p-10 lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Team</span>
+      </a>
+      
+      
       </div>
+
 
         <div className="logo-div bg-cover relative lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
           <img className="logo bg-cover" src="./assets/turtle-logo.png" alt="turtles" />

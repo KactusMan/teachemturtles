@@ -183,9 +183,15 @@ color: #FFD664;
 body {
   overflow-x: hidden;
   max-width: 100%;
+
+}
+html {
+  scroll-behavior: smooth;
 }
 
-
+img {
+  background-size: cover;
+}
 
 /* .darkmode-button {
   position: absolute;
