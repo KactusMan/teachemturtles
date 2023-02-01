@@ -62,22 +62,22 @@
 
         {/* right div, div 2 of grid */}
 
-      <div className="div2 lg:p-10 lg:bottom-[37%]  xl:p-10 lg:mx-[-4.9%] lg:bottom-[18%] relative   xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
+      <div className="div2 lg:p-10 lg:bottom-[37%]  xl:p-10 lg:mx-[-4.9%]  relative   xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
       <hr className="hr-div-2 lg:w-[86%] lg:mx-[5%] lg:mb-[1em] xl:w-[93%] xl:mb-[1.5em] 2xl:w-[100%]"/>
       
       <a href="discord.gg/teachemturtles">
-      <img  className=" disc-img   lg:w-[24px] lg:mx-[12%] lg:top-[8%]  xl:mx-[8%]  xl:w-[24px] 2xl:w-[45px] 2xl:top-[20%] 2xl:mx-[8%] relative"  src="./assets/Discord-icon.png" alt="discord" />
+      <img  className=" disc-img   lg:w-[20px] lg:mx-[12%] lg:top-[3.3%]  xl:mx-[8%]  xl:w-[24px] 2xl:w-[45px] 2xl:top-[20%] 2xl:mx-[8%] relative"  src="./assets/Discord-icon.png" alt="discord" />
       </a>
       
 
       <a href="twitter.com/teachemturtles">
-      <img  className=" twitter-img lg:w-[24px] lg:mx-[26%] lg:bottom-[15%]  xl:mx-[24%] xl:w-[24px] xl:bottom-[20%] 2xl:w-[45px] 2xl:mx-[24%] 2xl:bottom-[10%] relative"  src="./assets/Twitter-icon.png" alt="twitter" />
+      <img  className=" twitter-img lg:w-[20px] lg:mx-[26%] lg:bottom-[15%]  xl:mx-[24%] xl:w-[24px] xl:bottom-[20%] 2xl:w-[45px] 2xl:mx-[24%] 2xl:bottom-[10%] relative"  src="./assets/Twitter-icon.png" alt="twitter" />
       </a>
       
       <a href="https://opensea.io" >
-      <span className="os manrope-light  xl:text-[15px]  xl:w-10  xl:p-8 lg:text-[12px] xl:mx-[7%] 2xl:mx-[14%]  lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
+      <span className="os manrope-light  xl:text-[15px]  xl:w-10  xl:p-8 lg:text-[12px] lg:mx-[7%] xl:mx-[7%] 2xl:mx-[14%]  lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
       </a>
-      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span>
+      <span className="wallet manrope-light xl:text-[15px]  xl:p-8 lg:text-[12px] lg:-mx-[9%] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span>
       
       </div>
       
