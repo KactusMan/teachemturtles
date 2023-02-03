@@ -405,13 +405,7 @@ color: #443626;
 .image-one {
   url
 } */
-.wrapper{
-  width: 100%;
-  max-width: 1440px;
-  overflow-x: hidden;
-  overflow-y: auto;
-  margin: 0 auto;
-}
+
 
 .navbar{
   width: 100%;
@@ -486,10 +480,7 @@ li {
   text-align: left;
 }
 
-#roadmap {
-  position: relative;
-  left: 6%;
-}
+
  
 
   .navbar .toggle-icon{
