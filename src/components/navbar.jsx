@@ -69,7 +69,7 @@ const handleToggle=()=>{
       </div>
 
 
-      <div className="logo-div bg-cover sm:w-[20%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
+      <div className="logo-div bg-cover sm:w-[15%] sm:bg-cover sm:right-[3%] sm:bottom-[5%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
       <img className="logo bg-cover" src="./assets/turtle-logo.png" alt="turtles" />
     </div>
 
