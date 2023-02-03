@@ -485,6 +485,11 @@ li {
   font-size: 1.5rem;
   text-align: left;
 }
+
+#roadmap {
+  position: relative;
+  left: 6%;
+}
  
 
   .navbar .toggle-icon{

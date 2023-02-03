@@ -101,7 +101,7 @@ function Roadmap() {
          {/* poker section starting from here */}
         
         
-        <div className="absolute roadmap-bg md:w-screen md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[201%] ">
+        <div className="absolute roadmap-bg md:w-screen md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[201%] " id="poker">
         
         <img className=" md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -136,7 +136,7 @@ function Roadmap() {
 
                {/* eco system */}
         
-        <div className="absolute md:w-screen lg:w-screen xl:w-screen 2xl:w-screen  ">
+        <div className="absolute md:w-screen lg:w-screen xl:w-screen 2xl:w-screen  " id="ecosytem">
         
         <h1 className=" z-30 md:text-[5rem] md:mx-[25%] md:my-[78%] absolute lg:my-[70%] lg:mx-[28.2%] lg:w-max lg:text-[7rem]  xl:my-[73%] 2xl:my-[70%] 2xl:mx-[30.2%]  xl:w-max  xl:mx-[34%]   batsand xl:text-[120px]  2xl:text-[11rem]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
              <h1 className=" z-20 md:text-[5rem] md:mx-[24.2%] md:my-[78%]  absolute lg:my-[70%] lg:mx-[29%] lg:w-max lg:text-[7rem] xl:my-[72.4%] 2xl:my-[70%]  2xl:mx-[29.8%] 2xl:top-4 xl:w-max xl:mx-[34%]   batsand-dark xl:text-[120px] 2xl:text-[11rem]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>

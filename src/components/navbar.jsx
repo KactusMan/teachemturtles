@@ -110,11 +110,23 @@ const handleToggle=()=>{
 
         <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
         <ul className='links batsand '>
+          
+          <a href="#roadmap" onClick={handleToggle}>
           <li>ROADMAP</li>
+          </a>
+
+          <a href="#poker" onClick={handleToggle}>
           <li>POKER</li>
+          </a>
+          <a href="#ecosystem" onClick={handleToggle}>
           <li>ECOSYSTEM</li>
+          </a>
+          <a href="#team" onClick={handleToggle}>
           <li>TEAM</li>
+          </a>
+          <a href="Faq" onClick={handleToggle}>
           <li>FAQ</li>
+          </a>
         </ul>
         </div>
       </nav></>
