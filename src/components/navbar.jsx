@@ -69,9 +69,9 @@ const handleToggle=()=>{
       </div>
 
 
-      {/* <div className="logo-div bg-cover sm:w-[20%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
+      <div className="logo-div bg-cover sm:w-[20%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
       <img className="logo bg-cover" src="./assets/turtle-logo.png" alt="turtles" />
-    </div> */}
+    </div>
 
       {/* right div, div 2 of grid */}
 
@@ -102,13 +102,13 @@ const handleToggle=()=>{
 
 
 
-    </div><nav className={toggle ? 'navbar expanded  sm:z-50' : 'navbar sm:z-50'}>
+    </div><nav className={toggle ? 'navbar expanded 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50' : 'navbar 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50'}>
         {/* <h2 className='logo'>NavBar</h2> */}
         <div className='toggle-icon' onClick={handleToggle}>
           {toggle ? <Icon icon={x} size={28} /> : <Icon icon={menu} size={28} />}
         </div>
 
-        <div className= {toggle ? 'inner-div' : ''}>
+        <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
         <ul className='links batsand '>
           <li>ROADMAP</li>
           <li>POKER</li>
