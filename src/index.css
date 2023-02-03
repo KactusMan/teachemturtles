@@ -184,14 +184,12 @@ color: #FFD664;
 
 
 
-body {
+html, body {
   overflow-x: hidden;
   max-width: 100%;
-
-}
-html {
   scroll-behavior: smooth;
 }
+
 
 img {
   background-size: cover;
@@ -446,6 +444,9 @@ color: #443626;
     transition: 0.5s all ease-in-out;
     
   }
+
+
+
 
   .navbar.expanded{
     height: 110vh;
