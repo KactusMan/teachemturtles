@@ -403,24 +403,22 @@ color: #443626;
 .image-one {
   url
 } */
-
-
-
-.cross {
-  position: absolute;
-  z-index: 100;
-  right: 45%;
+.wrapper{
+  width: 100%;
+  max-width: 1440px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0 auto;
 }
-
 
 .navbar{
   width: 100%;
-  height: 80px;
-  padding: 30px;
-  /* background-color: #01061D; */
+  
+
+  background-color: #1D170F;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content:start;
+  align-items:left;
 }
 
 .navbar .logo{
@@ -431,16 +429,12 @@ color: #443626;
 
 .navbar .links{
   list-style: none;
-  display: flex;
-  color: #D9D2C3;
+  /* display: flex; */
+  color: #EBC677;
   cursor: pointer;
 }
 
-.navbar .links li{
-  margin: 0 15px;
-  font-size: 14px;
-  font-weight: 600;
-}
+
 
 .navbar .toggle-icon{
   display: none
@@ -450,10 +444,13 @@ color: #443626;
   .navbar{
     position: relative;
     transition: 0.5s all ease-in-out;
+    
   }
 
   .navbar.expanded{
-    height: 100vh;
+    height: 110vh;
+    width: 100vw;
+    transition: 0.5s all ease-in-out;
   }
 
   .navbar.expanded .links{
@@ -462,29 +459,35 @@ color: #443626;
     left: 0;
     width: 100%;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+   
     opacity: 1;
   }
 
-  .navbar.expanded .links li{
-    margin: 15px 0;
-    font-size: 24px;
-  }
-
-  .navbar .logo{
+  .inner-div {
+    
+    z-index: -10;
     position: absolute;
-    top: 23px;
-    left: 20px;
+    top: 0px;
+    height: 60%;
+    width: 100%;
+    border: 3px solid #836e40;
   }
+  
+li {
+  position: relative;
+  bottom: 40px;
+  left: 6%;
+  font-size: 1.5rem;
+  text-align: left;
+}
+ 
 
   .navbar .toggle-icon{
     display: block;
-    color: #D9D2C3;
+    color: #EFC34E;
     position: absolute;
     top: 28px;
-    right: 20px;
+    left: 20px;
   }
 
   .navbar .links{
@@ -494,14 +497,15 @@ color: #443626;
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: start;
+    align-items: start;
     opacity: 0;
     transition: all 0.5s ease-in-out;
   }
 
   .navbar .links li{
-    margin: 15px 0;
-    font-size: 24px;
+    margin: 12px 0;
+    
+    
   }
 }
