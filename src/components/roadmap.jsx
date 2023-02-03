@@ -95,6 +95,18 @@ function Roadmap() {
                </div>
               
         
+{/* poker section starting from here */}
+        
+        
+<div className="absolute roadmap-bg sm:w-screen md:w-screen md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[201%] " id="poker">
+        
+        <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
+        
+        <h1 className=" opacity-100  sm:top-[24%] sm:mx-[50%] sm:text-[2rem] sm:w-screen z-30  absolute md:w-screen md:top-[3%] md:mx-[48%] md:text-[4rem] lg:w-screen lg:top-[1.5%] lg:mx-[50%] lg:text-[7rem] xl:top-[1.5%] 2xl:top-0 2xl:mx-[51.2%]  2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] xl:w-max   xl:mx-[47.9%]  poker xl:text-[130px] "> WE PLAY <br />   POKER TOO!  </h1>
+                    <h1 className=" opacity-100 sm:top-[24%] sm:mx-[50%] sm:text-[2rem] sm:w-screen z-20 md:w-screen md:top-[3%] md:mx-[47.2%] md:text-[4rem] lg:w-screen  absolute lg:top-[1.5%] lg:mx-[50%] lg:text-[7rem] xl:top-[1.5%]  2xl:mx-[50.8%] 2xl:mt-[1.7%] 2xl:w-max 2xl:text-[13rem] 2xl:top-4 xl:w-max  xl:mx-[47.4%] poker-dark xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
+        </div>        
+                
+
 
 
 
