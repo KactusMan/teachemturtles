@@ -26,7 +26,7 @@ function MyComponent() {
 
   return (
     <video
-    className='  md:w-[100%] lg:w-[100%] xl:w-[100%] 2xl:w-[100%]'
+    className=' sm:w-screen md:w-[100%] lg:w-[100%] xl:w-[100%] 2xl:w-[100%]'
     src={image}
     type="video/mp4"
     loop={true}
