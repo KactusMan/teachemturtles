@@ -12,18 +12,18 @@ function Roadmap() {
         
                 <div className="   absolute roadmap-bg sm:h-[120%] sm:w-screen  md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
                     <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
-                    {/* <img className=" absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" /> */}
-                    {/* <img className=" absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" /> */}
+                    <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
+                    <img className=" sm:w-[40%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
                    
-                    {/* <img className="absolute md:top-[-19%] md:w-[23%] md:-z-0 lg:-z-0 lg:top-[-22%] lg:w-[26%]  xl:-z-0 xl:top-[-22%] 2xl:-z-0 2xl:top-[-17.8%] 2xl:w-[24%] " src="./assets/left-boulder.png" alt="left-boulder" /> */}
-                    {/* <img className="absolute md:top-[-14%] md:right-0 md:w-[14%] md:-z-0 lg:-z-0 lg:top-[-18%] lg:w-[16%] lg:-right-0 xl:-z-0 xl:right-0 xl:top-[-18%] 2xl:-z-0 2xl:right-0 2xl:top-[-14%] 2xl:w-[15%]" src="./assets/right-boulder.png" alt="right-boulder" /> */}
+                    <img className=" sm:w-[20%] sm:top-[-12%] absolute md:top-[-19%] md:w-[23%] md:-z-0 lg:-z-0 lg:top-[-22%] lg:w-[26%]  xl:-z-0 xl:top-[-22%] 2xl:-z-0 2xl:top-[-17.8%] 2xl:w-[24%] " src="./assets/left-boulder.png" alt="left-boulder" />
+                    <img className="sm:w-[15%] sm:bg-cover sm:right-0 sm:top-[-12%] absolute md:top-[-14%] md:right-0 md:w-[14%] md:-z-0 lg:-z-0 lg:top-[-18%] lg:w-[16%] lg:-right-0 xl:-z-0 xl:right-0 xl:top-[-18%] 2xl:-z-0 2xl:right-0 2xl:top-[-14%] 2xl:w-[15%]" src="./assets/right-boulder.png" alt="right-boulder" />
                     
-                    {/* <img className="absolute md:right-14 md:w-[7%] md:top-[12%] lg:right-6 lg:top-[16%]  xl:-z-0 xl:right-6 xl:top-[13%] 2xl:right-6 2xl:top-[13%] 2xl:w-[6%]" src="./assets/pebble-right.png" alt="right-pebble" /> */}
-                    {/* <img className="absolute md:left-6 md:w-[9%] md:top-[14%] lg:left-6 lg:top-[13%] xl:-z-0 xl:left-6 xl:top-[10%] 2xl:left-6 2xl:top-[10%] 2xl:w-[6%]" src="./assets/pebble-left.png" alt="left-pebble" /> */}
+                    <img className=" sm:w-[7%] sm:top-[11%] sm:right-6 absolute md:right-14 md:w-[7%] md:top-[12%] lg:right-6 lg:top-[16%]  xl:-z-0 xl:right-6 xl:top-[13%] 2xl:right-6 2xl:top-[13%] 2xl:w-[6%]" src="./assets/pebble-right.png" alt="right-pebble" />
+                    <img className=" sm:w-[12%] sm:top-[9%] sm:left-4 absolute md:left-6 md:w-[9%] md:top-[14%] lg:left-6 lg:top-[13%] xl:-z-0 xl:left-6 xl:top-[10%] 2xl:left-6 2xl:top-[10%] 2xl:w-[6%]" src="./assets/pebble-left.png" alt="left-pebble" />
                     
 
-                    <h1 className=" opacity-100  z-30 sm:w-screen sm:top-8 sm:text-[2.8rem] sm:mx-[18%] md:w-screen md:top-12 md:text-[5rem] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6rem] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
-                    <h1 className=" opacity-100 z-20  sm:w-screen sm:top-8 sm:text-[2.8rem] sm:mx-[17.2%] md:w-screen md:top-12 md:text-[5rem] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6rem] lg:mx-[28.5%] xl:top-20  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
+                    <h1 className=" opacity-100  z-30 sm:w-screen sm:top-8 sm:text-[2.8rem] sm:mx-[23%] md:w-screen md:top-12 md:text-[5rem] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6rem] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
+                    <h1 className=" opacity-100 z-20  sm:w-screen sm:top-8 sm:text-[2.8rem] sm:mx-[22.2%] md:w-screen md:top-12 md:text-[5rem] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6rem] lg:mx-[28.5%] xl:top-20  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
                     <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
@@ -98,7 +98,7 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-screen md:w-screen sm:h-[333%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[201%] " id="poker">
+<div className="absolute roadmap-bg sm:w-screen md:w-screen sm:h-[247%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[201%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -235,31 +235,31 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-screen sm:h-[180px] sm:my-[500%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
+        <div className="absolute sm:w-screen sm:h-[250px] sm:my-[500%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
 
-<img className=" sm:w-[20%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
-
-
- <h5 className=" sm:text-[0.5rem] sm:leading-4 sm:mx-[24%] sm:my-[8%] md:text-[1rem] md:leading-5 md:mx-[23%] md:break-words md:-my-[14%] footer-text lg:text-[1.2rem] lg:-my-[10%] lg:mx-[25%] lg:w-max lg:leading-[1.4rem] 2xl:text-[1.8rem] xl:text-[1.4rem] 2xl:-my-[14%] xl:-my-[14%] xl:mx-[30%] xl:text-left 2xl:mx-[30%] 2xl:text-left "> We are community focused project with <br /> milestones of  helping the eco-system & <br /> donating to charity. Want to join the <br /> turtles? Check our socials</h5>
- <h5 className=" sm:text-[0.5rem] sm:mx-[66%] sm:w-screen sm:-my-[24.5%] md:text-[0.8rem] md:mx-[70%] md:my-[2%] md:w-max absolute footer-text lg:text-[1rem] lg:mx-[70%] lg:my-[2%] lg:w-max 2xl:my-[6%] 2xl:mx-[68%] xl:mx-[70%] xl:my-[3%] xl:w-screen 2xl:w-screen 2xl:text-[1.7rem]  xl:text-[1.3rem] og-font 2xl:text-left uppercase"> og / wl spots inquiries </h5>
-<h6 className=" sm:text-[0.5rem] sm:mx-[58%] sm:leading-3 sm:w-screen sm:-my-[10%] md:text-[0.7rem] md:mx-[70%] md:my-[6%]  md:leading-5 md:w-max absolute footer-text lg:text-[1rem] lg:mx-[66%] lg:my-[5%] lg:w-max 2xl:my-[9%] 2xl:mx-[68%] 2xl:w-screen 2xl:text-[1.5rem] xl:w-screen xl:mx-[69%] xl:my-[7%]  xl:text-[1rem] og-text 2xl:text-left "> Missed out on the OG spots? We can get <br /> you  whitelist too? submit your email </h6>
-
-<img className="absolute sm:w-[5%] sm:mx-[25%]  md:w-[3%] md:mx-[23.5%] md:my-[15%] lg:w-[2.6%] lg:mx-[25%] lg:my-[15%] 2xl:w-[2.6%] xl:w-[2%] bg-cover xl:mx-[30%] xl:my-[15.1%]  2xl:mx-[30%] 2xl:my-[15.1%]" src="./assets/Discord-icon.png" alt="discord-icon" />            
-<img className="absolute sm:w-[5%] sm:mx-[46%]   md:w-[3%] md:mx-[43.5%] md:my-[15%] lg:w-[2.6%] lg:mx-[40%] lg:my-[15%] 2xl:w-[2.5%] xl:w-[2%] bg-cover xl:mx-[46%] xl:my-[15.1%]  2xl:mx-[46%] 2xl:my-[15.1%] " src="./assets/Twitter-icon.png" alt="twitter-icon" />            
-
-<h6 className="sm:text-[0.5rem] sm:mx-[32%] sm:-my-[3%]  md:text-[0.8rem] md:mx-[28%] md:my-[13.8%] discord-text lg:mx-[29.5%] lg:my-[14%] 2xl:mx-[33.5%] 2xl:my-[15%] xl:mx-[33.5%] xl:my-[14.5%] 2xl:text-[1.5rem] uppercase">Discord</h6>
-
-<h6 className=" sm:text-[0.5rem] sm:mx-[52%] sm:-my-[9.5%] md:text-[0.8rem] md:mx-[48%] md:-my-[19%]  discord-text lg:mx-[44%] lg:-my-[17.4%]  2xl:mx-[48.9%] 2xl:-my-[17.3%] xl:mx-[48.9%] xl:-my-[17.5%] 2xl:text-[1.5rem]   uppercase">@teachemturtles</h6>
+<img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
 
 
-{/* <div className="md:w-[25%] md:h-[30px] md:mx-[69%] md:my-[14%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[67%] lg:my-[12%] xl:w-[30%] xl:h-[53px] xl:mx-[67%] xl:my-[14%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
-<h4 className="md:mx-[3%] md:text-left md:text-[0.8rem] md:p-2 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[1.7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.2rem]  xl:mx-[5%] xl:text-left email-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Email </h4>
+ <h5 className=" sm:text-[0.7rem] sm:w-screen sm:leading-4  sm:mx-[32%] sm:my-[8%] md:text-[1rem] md:leading-5 md:mx-[23%] md:break-words md:-my-[14%] footer-text lg:text-[1.2rem] lg:-my-[10%] lg:mx-[25%] lg:w-max lg:leading-[1.4rem] 2xl:text-[1.8rem] xl:text-[1.4rem] 2xl:-my-[14%] xl:-my-[14%] xl:mx-[30%] xl:text-left 2xl:mx-[30%] 2xl:text-left "> We are community focused project with <br /> milestones of  helping the eco-system & <br /> donating to charity. Want to join the <br /> turtles? Check our socials</h5>
+ <h5 className=" sm:text-[0.6rem] sm:mx-[3%] sm:w-screen sm:my-[6.5%] md:text-[0.8rem] md:mx-[70%] md:my-[2%] md:w-max absolute footer-text lg:text-[1rem] lg:mx-[70%] lg:my-[2%] lg:w-max 2xl:my-[6%] 2xl:mx-[68%] xl:mx-[70%] xl:my-[3%] xl:w-screen 2xl:w-screen 2xl:text-[1.7rem]  xl:text-[1.3rem] og-font 2xl:text-left uppercase"> og / wl spots inquiries </h5>
+<h6 className=" sm:text-[0.6rem] sm:mx-[3%] sm:leading-3 sm:w-[100%]  sm:my-[13.5%] md:text-[0.7rem] md:mx-[70%] md:my-[6%]  md:leading-5 md:w-max absolute footer-text lg:text-[1rem] lg:mx-[66%] lg:my-[5%] lg:w-max 2xl:my-[9%] 2xl:mx-[68%] 2xl:w-screen 2xl:text-[1.5rem] xl:w-screen xl:mx-[69%] xl:my-[7%]  xl:text-[1rem] og-text 2xl:text-left "> Missed out on the OG spots? We can get <br /> you  whitelist too? submit your email </h6>
 
-<div className="md:w-[32%] md:h-[30px] md:mx-[69%] md:-my-[18.2%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[70%] lg:-my-[10.6%] xl:w-[30%] xl:h-[53px] xl:mx-[70%] xl:-my-[12.8%]  2xl:w-[28%] send-box  2xl:h-[60px] 2xl:mx-[72%] 2xl:-my-[13%] rounded-full  "> 
-<h4 className="md:text-left md:text-[0.8rem] md:p-1 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.3rem] xl:text-center send-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Send </h4>
+<img className="absolute sm:w-[4%] sm:mx-[32%] sm:-my-[6%]  md:w-[3%] md:mx-[23.5%] md:my-[15%] lg:w-[2.6%] lg:mx-[25%] lg:my-[15%] 2xl:w-[2.6%] xl:w-[2%] bg-cover xl:mx-[30%] xl:my-[15.1%]  2xl:mx-[30%] 2xl:my-[15.1%]" src="./assets/Discord-icon.png" alt="discord-icon" />            
+<img className="absolute sm:w-[4%] sm:mx-[32%] sm:my-[2%] md:mx-[43.5%] md:my-[15%] lg:w-[2.6%] lg:mx-[40%] lg:my-[15%] 2xl:w-[2.5%] xl:w-[2%] bg-cover xl:mx-[46%] xl:my-[15.1%]  2xl:mx-[46%] 2xl:my-[15.1%] " src="./assets/Twitter-icon.png" alt="twitter-icon" />            
+
+<h6 className="sm:text-[0.5rem] sm:mx-[39%] sm:-my-[9.2%]  md:text-[0.8rem] md:mx-[28%] md:my-[13.8%] discord-text lg:mx-[29.5%] lg:my-[14%] 2xl:mx-[33.5%] 2xl:my-[15%] xl:mx-[33.5%] xl:my-[14.5%] 2xl:text-[1.5rem] uppercase">Discord</h6>
+
+<h6 className=" sm:text-[0.5rem] sm:mx-[39%] sm:my-[7%] md:text-[0.8rem] md:mx-[48%] md:-my-[19%]  discord-text lg:mx-[44%] lg:-my-[17.4%]  2xl:mx-[48.9%] 2xl:-my-[17.3%] xl:mx-[48.9%] xl:-my-[17.5%] 2xl:text-[1.5rem]   uppercase">@teachemturtles</h6>
+
+
+<div className=" sm:w-[75%] sm:my-[6%] sm:mx-[10%] sm:h-[20px] md:w-[25%] md:h-[30px] md:mx-[69%] md:my-[14%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[67%] lg:my-[12%] xl:w-[30%] xl:h-[53px] xl:mx-[67%] xl:my-[14%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
+<h4 className=" sm:mx-[5%] sm:text-left sm:text-[0.7rem] sm:my-[1%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-2 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[1.7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.2rem]  xl:mx-[5%] xl:text-left email-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Email </h4>
+
+<div className=" sm:w-[25%] sm:-my-[7.8%] sm:mx-[75%] sm:h-[20px] md:w-[32%] md:h-[30px] md:mx-[69%] md:-my-[18.2%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[70%] lg:-my-[10.6%] xl:w-[30%] xl:h-[53px] xl:mx-[70%] xl:-my-[12.8%]  2xl:w-[28%] send-box  2xl:h-[60px] 2xl:mx-[72%] 2xl:-my-[13%] rounded-full  "> 
+<h4 className=" sm:mx-[7%] sm:text-left sm:text-[0.7rem] sm:my-[3%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-1 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.3rem] xl:text-center send-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Send </h4>
 </div>
 
-</div> */}
+</div>
 
 
         </div>
