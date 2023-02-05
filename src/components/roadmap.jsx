@@ -6,7 +6,7 @@ function Roadmap() {
         return (
         
                     
-                    <><div className=" sm:w-screen  md:w-[100%]       xl:w-[100%]   min-[1280px]:height-[200%] max-[1366px]:height-[300%] lg:w-[100%] 2xl:w-[100%]   ">
+                    <><div className=" sm:w-screen  md:w-[100%] min-[350px]:height-[223%] max-[450px]:height-[223%]      xl:w-[100%]   min-[1280px]:height-[200%] max-[1366px]:height-[300%] lg:w-[100%] 2xl:w-[100%]   ">
         
         
         
