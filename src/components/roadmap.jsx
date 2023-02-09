@@ -123,7 +123,7 @@ function Roadmap() {
         <h1 className=" absolute sm:top-0 sm:text-[2rem] sm:-mx-[17%] sm:w-screen md:top-1 md:text-[3rem] md:mx-[36.2%] lg:top-1 lg:mx-[34.3%] lg:text-[4rem] lg:text-center xl:break-words z-30 xl:top-2  2xl:top-0 2xl:mx-[33%] 2xl:mt-0 xl:mx-[34.8%] 2xl:text-[8rem] xl:max-w-4xl 2xl:max-w-4xl 2xl:break-words   xl:text-center  join-dark xl:text-[80px] "> JOIN US!  </h1>
          
                     <h1 className=" join-lorem sm:text-[0.5rem] sm:leading-[10px]  sm:my-[9%] sm:p-4 md:text-[1rem] md:mt-[8%] md:leading-5 md:p-4 lg:p-4 lg:text-[1.1rem] lg:mt-[8%] xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%] 2xl:text-[1.5rem] "> We love poker! We have poker events planned every week with other communities as well as every Friday our own & sometimes with collabs. In the prize pools we give out eth prizes or NFTs to the winners. Teach Em Turtles is about having fun & giving back to our community! </h1>
-                        <h6 className="join-social sm:font-extrabold sm:text-[0.5rem] sm:-my-[15%] sm:p-4 md:text-[0.9rem] md:pl-4 2xl:mt-8 lg:text-[1rem]"> Don't miss our next event! Check our twitter @teachemturtles & discord here.</h6>
+                        <h6 className="join-social sm:font-extrabold sm:text-[0.5rem] sm:-my-[18.5%] sm:p-4 md:text-[0.9rem] md:pl-4 2xl:mt-8 lg:text-[1rem]"> Don't miss our next event! Check our twitter @teachemturtles & discord here.</h6>
                
         
                </div>
@@ -152,8 +152,8 @@ function Roadmap() {
         
         
                <div  className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30   absolute sm:my-[198%] sm:text-[2.5rem] sm:mx-[40%] md:my-[145%] md:text-[5rem] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7rem] xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[15rem]"> TEAM </h1>
-                    <h1 className=" z-20  absolute sm:my-[198%] sm:text-[2.5rem] sm:mx-[40%]  md:my-[145%] md:text-[5rem] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7rem] xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> TEAM </h1>
+                          <h1 className=" z-30   absolute sm:my-[205%] sm:text-[2.5rem] sm:mx-[40%] md:my-[145%] md:text-[5rem] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7rem] xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[15rem]"> TEAM </h1>
+                    <h1 className=" z-20  absolute sm:my-[205%] sm:text-[2.5rem] sm:mx-[40%]  md:my-[145%] md:text-[5rem] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7rem] xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> TEAM </h1>
                
         
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
@@ -193,14 +193,14 @@ function Roadmap() {
         
         
                          <div  className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" sm:text-[2.5rem] sm:mx-[38%] sm:my-[360%] z-30 md:text-[5rem] md:mx-[40%] md:my-[230%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7rem] xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
+                          <h1 className=" sm:text-[2.5rem] sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5rem] md:mx-[40%] md:my-[230%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7rem] xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
                     <h1 className=" z-20 sm:text-[2.5rem] sm:mx-[38%] sm:my-[360%] md:text-[5rem] md:mx-[39.2%] md:my-[230%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7rem] xl:my-[220.9%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] md:w-[99%] sm:w-[99%] sm:top-[1660px] sm:h-[350px] 2xl:top-[4500px] 2xl:h-[500px] overflow-y-auto">
+        <div className="absolute 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:top-[4500px] 2xl:h-[500px] overflow-y-auto">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -227,7 +227,7 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-screen sm:h-[250px] sm:my-[540%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
+        <div className="absolute sm:w-screen sm:h-[250px] huawei-footer sm:my-[550%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
 
 <img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
 

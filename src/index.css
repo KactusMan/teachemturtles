@@ -561,3 +561,14 @@ left: 20px;
     
   }
 }
+
+
+
+
+
+@media(min-width: 360px) and (max-width: 428px) {
+  
+  .huawei-footer {
+    margin-top: 200px;
+  }
+}
