@@ -38,7 +38,7 @@ const Faq = ({ question, answer }) => {
                 <div>
                   <div className="flex justify-between items-center   ">
                     <div className="mx-8 ">
-                      <p className="text-sm font-light md:text-[17px] text-[#969696] md:text-white md:font-normal leading-6">
+                      <p className="text-sm font-light md:text-[17px] text-[#382f17] md:text-white md:font-normal leading-6">
                         {parse(answer)}</p>
                     </div>
                   </div>
