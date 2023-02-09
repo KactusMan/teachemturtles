@@ -200,7 +200,7 @@ function Roadmap() {
         
         
 
-        <div className="absolute 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] md:w-[99%] sm:w-[99%] sm:top-[1500px] sm:h-[350px] 2xl:top-[4500px] 2xl:h-[500px] overflow-y-auto">
+        <div className="absolute 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] md:w-[99%] sm:w-[99%] sm:top-[1660px] sm:h-[350px] 2xl:top-[4500px] 2xl:h-[500px] overflow-y-auto">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -227,7 +227,7 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-screen sm:h-[250px] sm:my-[530%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
+        <div className="absolute sm:w-screen sm:h-[250px] sm:my-[540%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
 
 <img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
 
