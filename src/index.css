@@ -11,7 +11,9 @@
 }
 
 
-
+@-ms-viewport{
+  width: device-width;
+}
 
 .manrope-light {
   font-family: 'Manrope', sans-serif;
