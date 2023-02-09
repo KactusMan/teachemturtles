@@ -83,6 +83,45 @@ color: #FFD664;
   color: #443626;
   word-wrap: break-word;
 }
+.join-lorem {
+
+  font-family: 'Montserrat';
+  font-style: italic; 
+  /* font-size: 1.5rem; */
+  font-weight: 600;
+  line-height: 30px;
+  color: #261f16;
+  /* word-break: break-all; */
+  
+}
+
+.join-social {
+  font-family: 'Montserrat';
+  /* font-size: 1.5rem; */
+  /* line-height: 22px; */
+  /* font-style:normal; */
+  color: #654A20;
+
+}
+
+
+.faq-bg {
+  background: rgba(136, 103, 66, 0.53); 
+}
+
+.faq-question {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  /* font-size: 22px; */
+  /* line-height: 27px; */
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #443626;
+}
+
 .lorem {
   font-family: 'Montserrat';
   font-style: italic; 
@@ -90,7 +129,7 @@ color: #FFD664;
   font-weight: 600;
   line-height: 30px;
   color: #261f16;
-  word-break: break-all;
+  /* word-break: break-all; */
   
 }
 

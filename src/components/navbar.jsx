@@ -50,7 +50,7 @@ const handleToggle=()=>{
       <div className="div1 sm:hidden  md:bottom-[50%]   lg:p-10 lg:bottom-[37%] relative xl:bottom-[6%] xl:p-10  2xl:p-10 2xl:bottom-[6%]">
         <hr className="hr-div-1 lg:w-[110%] lg:mb-[1em]  xl:w-[106%] xl:mb-[1.5em] 2xl:w-[100%] 2xl:mx-[2.2%] 2xl:mb-[1.5em]" />
 
-        <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] lg:-mx-[7%] xl:text-[15px] 2xl:text-[22px]   lg:p-10   xl:p-10 2xl:p-10 2xl:mx-[2%] relative  ">Home</span>
+        <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] lg:-mx-[7%] xl:text-[15px] 2xl:text-[22px]   lg:p-10   xl:p-10 2xl:p-10 2xl:mx-[2%] relative  ">Whitepaper</span>
 
         <a href="#roadmap">
           <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px]  lg:p-10   xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Roadmap</span>
