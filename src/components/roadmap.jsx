@@ -159,7 +159,7 @@ function Roadmap() {
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
                
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
-                <h3 className=" sm:text-[0.8rem] sm:p-14   sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+                <h3 className=" sm:text-[0.8rem] sm:p-14  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
               
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
