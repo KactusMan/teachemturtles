@@ -14,7 +14,7 @@ function Roadmap() {
                 <div className="   absolute roadmap-bg sm:h-[120%] sm:w-screen  md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
                     <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
                     <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
-                    <img className=" sm:w-[40%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
+                    {/* <img className=" sm:w-[40%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" /> */}
                    
                     <img className=" sm:w-[20%] sm:top-[-12%] absolute md:top-[-19%] md:w-[23%] md:-z-0 lg:-z-0 lg:top-[-22%] lg:w-[26%]  xl:-z-0 xl:top-[-22%] 2xl:-z-0 2xl:top-[-17.8%] 2xl:w-[24%] " src="./assets/left-boulder.png" alt="left-boulder" />
                     <img className="sm:w-[15%] sm:bg-cover sm:right-0 sm:top-[-12%] absolute md:top-[-14%] md:right-0 md:w-[14%] md:-z-0 lg:-z-0 lg:top-[-18%] lg:w-[16%] lg:-right-0 xl:-z-0 xl:right-0 xl:top-[-18%] 2xl:-z-0 2xl:right-0 2xl:top-[-14%] 2xl:w-[15%]" src="./assets/right-boulder.png" alt="right-boulder" />
