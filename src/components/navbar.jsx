@@ -43,7 +43,7 @@ const handleToggle=()=>{
 
 
   return (
-    <div className="parent  md:w-[100%] lg:w-[100%] xl:w-[100%] 2xl:w-[100%] text-center">
+    <><div className="parent  md:w-[100%] lg:w-[100%] xl:w-[100%] 2xl:w-[100%] text-center">
 
       {/* left div, div 1 of grid */}
 
@@ -102,7 +102,35 @@ const handleToggle=()=>{
 
 
 
-    </div>
+    </div><nav className={toggle ? 'navbar expanded 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50' : 'navbar 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50'}>
+        {/* <h2 className='logo'>NavBar</h2> */}
+        <div className='toggle-icon' onClick={handleToggle}>
+          {toggle ? <Icon icon={x} size={28} /> : <Icon icon={menu} size={28} />}
+        </div>
+
+        <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
+        <ul className='links batsand '>
+          
+          <a href="#roadmap" onClick={handleToggle}>
+          <li>ROADMAP</li>
+          </a>
+          
+
+          <a href="#poker" onClick={handleToggle}>
+          <li>POKER</li>
+          </a>
+          <a href="#ecosystem" onClick={handleToggle}>
+          <li>ECOSYSTEM</li>
+          </a>
+          <a href="#team" onClick={handleToggle}>
+          <li>TEAM</li>
+          </a>
+          <a href="Faq" onClick={handleToggle}>
+          <li>FAQ</li>
+          </a>
+        </ul>
+        </div>
+      </nav></>
 
     
   );
