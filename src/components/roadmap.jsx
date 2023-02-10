@@ -99,7 +99,7 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[247%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
+<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[260%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -113,7 +113,7 @@ function Roadmap() {
                 
         
         
-        <div className="absolute sm:w-[80%] sm:h-[15%] sm:top-[108%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%] 2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
+        <div className="absolute sm:w-[80%] sm:h-[15%] sm:top-[115%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%] 2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
                
                         
                <div className=" sm:h-screen  sm:text-center lg:text-center xl:text-center 2xl:text-center   ">
