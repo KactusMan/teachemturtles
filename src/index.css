@@ -233,7 +233,13 @@ html, body {
   margin: 0;
   touch-action: pan-x;
   touch-action: cross-slide-x;
- 
+  pointer-events:none;
+}
+
+body {
+  touch-action: pan-x;
+  touch-action: cross-slide-x;
+  pointer-events:none;
 }
 
 :root {
