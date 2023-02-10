@@ -7,11 +7,11 @@ function Roadmap() {
         return (
         
                     
-                    <><div className=" sm:w-[70%]  md:w-[100%]       xl:w-[100%]   min-[1280px]:height-[200%] max-[1366px]:height-[300%] lg:w-[100%] 2xl:w-[100%]   ">
+                    <><div className=" sm:w-[70%]  md:w-[100%]       xl:w-[100%]   min-[1280px]:height-[200%] max-[1366px]:height-[300%] lg:w-[100%]   ">
         
         
         
-                <div className="   absolute roadmap-bg sm:h-[120%] sm:w-screen  md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
+                <div className="   absolute roadmap-bg sm:h-[120%]   md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
                     <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
                     <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
                     {/* <img className=" sm:w-[40%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" /> */}
@@ -159,7 +159,7 @@ function Roadmap() {
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
                
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
-                <h3 className=" sm:text-[0.8rem] sm:p-14  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
               
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
@@ -167,7 +167,7 @@ function Roadmap() {
         
                 
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                <h3 className=" sm:text-[0.8rem] sm:p-14  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
@@ -179,7 +179,7 @@ function Roadmap() {
         
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
         
          {/* team section ending */}
