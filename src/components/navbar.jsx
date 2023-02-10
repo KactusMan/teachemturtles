@@ -102,13 +102,15 @@ const handleToggle=()=>{
 
 
 
-    </div><nav className={toggle ? 'navbar expanded 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50' : 'navbar 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50'}>
+    </div>
+    
+    <nav className={toggle ? 'navbar expanded 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50' : 'navbar 2xl:hidden xl:hidden lg:hidden md:hidden sm:z-50'}>
         {/* <h2 className='logo'>NavBar</h2> */}
         <div className='toggle-icon' onClick={handleToggle}>
           {toggle ? <Icon icon={x} size={28} /> : <Icon icon={menu} size={28} />}
         </div>
 
-        <div className= {toggle ? ' inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
+        <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
         <ul className='links batsand '>
           
           <a href="#roadmap" onClick={handleToggle}>
@@ -130,7 +132,10 @@ const handleToggle=()=>{
           </a>
         </ul>
         </div>
-      </nav></>
+      </nav>
+      
+      
+      </>
 
     
   );

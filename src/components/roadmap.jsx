@@ -244,14 +244,7 @@ function Roadmap() {
 <h6 className=" sm:text-[0.5rem] sm:mx-[39%] sm:my-[7%] md:text-[0.8rem] md:mx-[48%] md:-my-[19%]  discord-text lg:mx-[44%] lg:-my-[17.4%]  2xl:mx-[48.9%] 2xl:-my-[17.3%] xl:mx-[48.9%] xl:-my-[17.5%] 2xl:text-[1.5rem]   uppercase">@teachemturtles</h6>
 
 
-{/* <div className=" sm:w-[75%] sm:my-[6%] sm:mx-[10%] sm:h-[20px] md:w-[25%] md:h-[30px] md:mx-[69%] md:my-[14%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[67%] lg:my-[12%] xl:w-[30%] xl:h-[53px] xl:mx-[67%] xl:my-[14%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
-<h4 className=" sm:mx-[5%] sm:text-left sm:text-[0.7rem] sm:my-[1%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-2 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[1.7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.2rem]  xl:mx-[5%] xl:text-left email-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Email </h4>
 
-<div className=" sm:w-[25%] sm:-my-[23px] sm:mx-[75%] sm:h-[20px] md:w-[32%] md:h-[30px] md:mx-[69%] md:-my-[18.2%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[70%] lg:-my-[10.6%] xl:w-[30%] xl:h-[53px] xl:mx-[70%] xl:-my-[12.8%]  2xl:w-[28%] send-box  2xl:h-[60px] 2xl:mx-[72%] 2xl:-my-[13%] rounded-full  "> 
-<h4 className=" sm:mx-[7%] sm:text-left sm:text-[0.7rem] sm:my-[3%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-1 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.3rem] xl:text-center send-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Send </h4>
-</div>
-
-</div> */}
 
 
         </div>
