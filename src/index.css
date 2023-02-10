@@ -235,15 +235,13 @@ html, body {
   margin: 0;
   touch-action: pan-x;
   touch-action: cross-slide-x;
-  pointer-events:none;
-  -webkit-overflow-scrolling: touch
+
+ 
 }
 
 body {
   touch-action: pan-x;
   touch-action: cross-slide-x;
-  pointer-events:none;
-  -webkit-overflow-scrolling: touch
 }
 
 :root {
