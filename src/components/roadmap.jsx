@@ -11,20 +11,20 @@ function Roadmap() {
         
         
         
-                <div className="   absolute roadmap-bg    md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
+                <div className="   absolute roadmap-bg sm:h-[120%]   md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
                     <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
-                    {/* <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" /> */}
-                    {/* <img className=" sm:w-[40%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" /> */}
+                    <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
+                    <img className=" sm:w-[35%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
                    
-                    {/* <img className=" sm:w-[20%] sm:top-[-12%] absolute md:top-[-19%] md:w-[23%] md:-z-0 lg:-z-0 lg:top-[-22%] lg:w-[26%]  xl:-z-0 xl:top-[-22%] 2xl:-z-0 2xl:top-[-17.8%] 2xl:w-[24%] " src="./assets/left-boulder.png" alt="left-boulder" /> */}
-                    {/* <img className="sm:w-[15%] sm:bg-cover sm:right-0 sm:top-[-12%] absolute md:top-[-14%] md:right-0 md:w-[14%] md:-z-0 lg:-z-0 lg:top-[-18%] lg:w-[16%] lg:-right-0 xl:-z-0 xl:right-0 xl:top-[-18%] 2xl:-z-0 2xl:right-0 2xl:top-[-14%] 2xl:w-[15%]" src="./assets/right-boulder.png" alt="right-boulder" /> */}
+                    <img className=" sm:w-[20%] sm:top-[-12%] absolute md:top-[-19%] md:w-[23%] md:-z-0 lg:-z-0 lg:top-[-22%] lg:w-[26%]  xl:-z-0 xl:top-[-22%] 2xl:-z-0 2xl:top-[-17.8%] 2xl:w-[24%] " src="./assets/left-boulder.png" alt="left-boulder" />
+                    <img className="sm:w-[15%] sm:bg-cover sm:right-0 sm:top-[-12%] absolute md:top-[-14%] md:right-0 md:w-[14%] md:-z-0 lg:-z-0 lg:top-[-18%] lg:w-[16%] lg:-right-0 xl:-z-0 xl:right-0 xl:top-[-18%] 2xl:-z-0 2xl:right-0 2xl:top-[-14%] 2xl:w-[15%]" src="./assets/right-boulder.png" alt="right-boulder" />
                     
                     <img className=" sm:w-[7%] sm:top-[11%] sm:right-6 absolute md:right-14 md:w-[7%] md:top-[12%] lg:right-6 lg:top-[16%]  xl:-z-0 xl:right-6 xl:top-[13%] 2xl:right-6 2xl:top-[13%] 2xl:w-[6%]" src="./assets/pebble-right.png" alt="right-pebble" />
                     <img className=" sm:w-[12%] sm:top-[7%] sm:left-4 absolute md:left-6 md:w-[9%] md:top-[14%] lg:left-6 lg:top-[13%] xl:-z-0 xl:left-6 xl:top-[10%] 2xl:left-6 2xl:top-[10%] 2xl:w-[6%]" src="./assets/pebble-left.png" alt="left-pebble" />
                     
 
-                    {/* <h1 className=" opacity-100  z-30 sm:w-1/2 sm:top-8 sm:text-[2.6rem] sm:mx-[23%] md:w-screen md:top-12 md:text-[5rem] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6rem] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1> */}
-                    {/* <h1 className=" opacity-100 z-20  sm:w-1/2 sm:top-8 sm:text-[2.6rem] sm:mx-[22.2%] md:w-screen md:top-12 md:text-[5rem] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6rem] lg:mx-[28.5%] xl:top-20  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1> */}
+                    <h1 className=" opacity-100  z-30 sm:w-1/2 sm:top-8 sm:text-[2.6rem] sm:mx-[23%] md:w-screen md:top-12 md:text-[5rem] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6rem] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:mx-[30.2%] 2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
+                    <h1 className=" opacity-100 z-20  sm:w-1/2 sm:top-8 sm:text-[2.6rem] sm:mx-[22.2%] md:w-screen md:top-12 md:text-[5rem] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6rem] lg:mx-[28.5%] xl:top-20  2xl:mx-[29.8%] 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7rem] 2xl:w-screen 2xl:text-[11rem]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
                     <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
@@ -99,7 +99,7 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-[100vw] md:w-screen sm:h-[247%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
+<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[247%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -137,7 +137,7 @@ function Roadmap() {
 
                                  {/* eco system */}
         
-        <div className="absolute sm:w-[100vw] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen  " id="ecosytem">
+        <div className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen  " id="ecosytem">
         
         <h1 className=" z-30 sm:text-[2rem] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5rem] md:mx-[25%] md:my-[78%] absolute lg:my-[70%] lg:mx-[28.2%] lg:w-max lg:text-[7rem]  xl:my-[73%] 2xl:my-[70%] 2xl:mx-[30.2%]  xl:w-max  xl:mx-[34%]   batsand xl:text-[120px]  2xl:text-[11rem]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
              <h1 className=" z-20 sm:text-[2rem] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5rem] md:mx-[24.2%] md:my-[78%]  absolute lg:my-[70%] lg:mx-[29%] lg:w-max lg:text-[7rem] xl:my-[72.4%] 2xl:my-[70%]  2xl:mx-[29.8%] 2xl:top-4 xl:w-max xl:mx-[34%]   batsand-dark xl:text-[120px] 2xl:text-[11rem]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
@@ -151,7 +151,7 @@ function Roadmap() {
                                                           {/* team section */}
         
         
-               <div  className="absolute sm:w-[100vw] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
+               <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
                           <h1 className=" z-30   absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5rem] sm:mx-[40%] md:my-[145%] md:text-[5rem] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7rem] xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[15rem]"> TEAM </h1>
                     <h1 className=" z-20  absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5rem] sm:mx-[40%]  md:my-[145%] md:text-[5rem] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7rem] xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> TEAM </h1>
                
@@ -159,27 +159,27 @@ function Roadmap() {
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
                
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
               
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[16%]  absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[38%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[38%] 2xl:my-[18%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[16%]  absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[38%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[38%] 2xl:my-[18%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
                 
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7rem]"> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7rem]"> lorem <br /> ipsumlorem  </h3>
         
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className= " sm:text-[0.8rem] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className= " sm:text-[0.8rem] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
         
                 <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
-                {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
         
         
          {/* team section ending */}
@@ -192,7 +192,7 @@ function Roadmap() {
                                                 {/* FAQ section */}
         
         
-                         <div  className="absolute sm:w-[100vw] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
+                         <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
                           <h1 className=" sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5rem] md:mx-[40%] md:my-[230%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7rem] xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
                     <h1 className=" z-20 sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%] md:text-[5rem] md:mx-[39.2%] md:my-[230%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7rem] xl:my-[220.9%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> FAQS </h1>
                
@@ -216,7 +216,7 @@ function Roadmap() {
 
 
 {/* rocks section */}
-<div className="absolute sm:w-[100vw] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
+<div className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[310%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[270%] xl:w-[40%] xl:justify-end xl:my-[295%] xl:mx-[59%] 2xl:w-[45%] 2xl:justify-end absolute 2xl:my-[280%] 2xl:mx-[55%]" src="./assets/right-rock.png" alt="right-rock" />
         <img className=" sm:w-[10%] sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[320%]  lg:w-[4%] lg:mx-[50%] lg:my-[279%] xl:w-[4%] absolute xl:justify-center xl:my-[305%] xl:mx-[44%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[295%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
         <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[320%]  lg:w-[10%] lg:mx-[10%] lg:my-[279%] xl:w-[10%] absolute xl:justify-start xl:my-[305%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[295%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
