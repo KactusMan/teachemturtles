@@ -11,7 +11,7 @@ function Roadmap() {
         
         
         
-                <div className="   absolute roadmap-bg sm:h-[120%]   md:w-screen xl:w-screen lg:w-screen  2xl:h-[320%] ">
+                <div className="   absolute roadmap-bg sm:h-[120%]   md:w-screen xl:w-screen lg:w-screen  2xl:h-[330%] ">
                     <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
                     <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
                     <img className=" sm:w-[35%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
@@ -82,7 +82,7 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[55%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[70%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
@@ -99,7 +99,7 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[260%] md:h-[230%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
+<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[260%] md:h-[280%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[210%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -193,14 +193,14 @@ function Roadmap() {
         
         
                          <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5rem] md:mx-[40%] md:my-[230%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7rem] xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%] md:text-[5rem] md:mx-[39.2%] md:my-[230%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7rem] xl:my-[220.9%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> FAQS </h1>
+                          <h1 className=" sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5rem] md:mx-[40%] md:my-[290%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7rem] xl:my-[220%] 2xl:my-[215%] 2xl:mx-[38.2%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px]  2xl:text-[15rem]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2.5rem] sm:w-1/2 sm:mx-[38%] sm:my-[360%] md:text-[5rem] md:mx-[39.2%] md:my-[290%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7rem] xl:my-[220.9%] 2xl:my-[215%]  2xl:mx-[37.8%] 2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:top-[4500px] 2xl:h-[500px] overflow-y-auto">
+        <div className="absolute h-[500px] md:my-[310%] 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[220%]  xl:my-[240%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:top-[4500px] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -217,9 +217,9 @@ function Roadmap() {
 
 {/* rocks section */}
 <div className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-        <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[310%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[270%] xl:w-[40%] xl:justify-end xl:my-[295%] xl:mx-[59%] 2xl:w-[45%] 2xl:justify-end absolute 2xl:my-[280%] 2xl:mx-[55%]" src="./assets/right-rock.png" alt="right-rock" />
-        <img className=" sm:w-[10%] sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[320%]  lg:w-[4%] lg:mx-[50%] lg:my-[279%] xl:w-[4%] absolute xl:justify-center xl:my-[305%] xl:mx-[44%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[295%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
-        <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[320%]  lg:w-[10%] lg:mx-[10%] lg:my-[279%] xl:w-[10%] absolute xl:justify-start xl:my-[305%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[295%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
+        <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[380%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[270%] xl:w-[40%] xl:justify-end xl:my-[295%] xl:mx-[59%] 2xl:w-[45%] 2xl:justify-end absolute 2xl:my-[280%] 2xl:mx-[55%]" src="./assets/right-rock.png" alt="right-rock" />
+        <img className=" sm:w-[10%] sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[390%]  lg:w-[4%] lg:mx-[50%] lg:my-[279%] xl:w-[4%] absolute xl:justify-center xl:my-[305%] xl:mx-[44%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[295%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
+        <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[390%]  lg:w-[10%] lg:mx-[10%] lg:my-[279%] xl:w-[10%] absolute xl:justify-start xl:my-[305%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[295%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
         </div>
 
 
@@ -227,7 +227,7 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[550%] md:w-screen md:h-[210px] md:my-[334%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
+        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[550%] md:w-screen md:h-[210px] md:my-[410%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[313%] 2xl:h-[300px]">
 
 <img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
 
