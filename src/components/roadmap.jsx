@@ -158,27 +158,27 @@ function Roadmap() {
         
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
                
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
               
         
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[16%]  absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[38%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[38%] 2xl:my-[18%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
         
                 
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
         
         
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7rem]"> lorem <br /> ipsumlorem  </h3> */}
         
         
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className= " sm:text-[0.8rem] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
         
         
-                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3> */}
         
         
@@ -244,14 +244,14 @@ function Roadmap() {
 <h6 className=" sm:text-[0.5rem] sm:mx-[39%] sm:my-[7%] md:text-[0.8rem] md:mx-[48%] md:-my-[19%]  discord-text lg:mx-[44%] lg:-my-[17.4%]  2xl:mx-[48.9%] 2xl:-my-[17.3%] xl:mx-[48.9%] xl:-my-[17.5%] 2xl:text-[1.5rem]   uppercase">@teachemturtles</h6>
 
 
-<div className=" sm:w-[75%] sm:my-[6%] sm:mx-[10%] sm:h-[20px] md:w-[25%] md:h-[30px] md:mx-[69%] md:my-[14%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[67%] lg:my-[12%] xl:w-[30%] xl:h-[53px] xl:mx-[67%] xl:my-[14%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
+{/* <div className=" sm:w-[75%] sm:my-[6%] sm:mx-[10%] sm:h-[20px] md:w-[25%] md:h-[30px] md:mx-[69%] md:my-[14%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[67%] lg:my-[12%] xl:w-[30%] xl:h-[53px] xl:mx-[67%] xl:my-[14%]  2xl:w-[26%] 2xl:h-[60px] 2xl:mx-[67%] 2xl:my-[14.4%] rounded-full faq email-box">
 <h4 className=" sm:mx-[5%] sm:text-left sm:text-[0.7rem] sm:my-[1%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-2 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[1.7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.2rem]  xl:mx-[5%] xl:text-left email-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Email </h4>
 
 <div className=" sm:w-[25%] sm:-my-[23px] sm:mx-[75%] sm:h-[20px] md:w-[32%] md:h-[30px] md:mx-[69%] md:-my-[18.2%] absolute lg:w-[30%] lg:h-[35px] lg:mx-[70%] lg:-my-[10.6%] xl:w-[30%] xl:h-[53px] xl:mx-[70%] xl:-my-[12.8%]  2xl:w-[28%] send-box  2xl:h-[60px] 2xl:mx-[72%] 2xl:-my-[13%] rounded-full  "> 
 <h4 className=" sm:mx-[7%] sm:text-left sm:text-[0.7rem] sm:my-[3%] md:mx-[3%] md:text-left md:text-[0.8rem] md:p-1 lg:text-left lg:text-[1rem] lg:mx-[5%] lg:p-[7%] 2xl:text-left 2xl:text-[1.7rem] xl:text-[1.3rem] xl:text-center send-font xl:p-3 2xl:mx-[5%]  2xl:p-3 ">Send </h4>
 </div>
 
-</div>
+</div> */}
 
 
         </div>
