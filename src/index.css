@@ -233,11 +233,7 @@ html, body {
   scroll-behavior: smooth;
   padding: 0;
   margin: 0;
-  touch-action: pan-x;
-  touch-action: cross-slide-x;
-  -moz-appearance: none; /* Firefox */
-  -webkit-appearance: none; /* Safari and Chrome */
-  appearance: none;
+
 
  
 }
@@ -245,15 +241,7 @@ html, body {
   outline: solid 1px red;
 }
 
-body {
-  touch-action: pan-x;
-  touch-action: cross-slide-x;
-}
 
-:root {
-  touch-action: pan-x pan-y;
-  
-}
 
 
 
@@ -518,7 +506,7 @@ color: #443626;
 
 
   .navbar.expanded{
-    height: 110vh;
+    height: 50vh;
     width: 100vw;
     transition: 0.5s all ease-in-out;
   }
@@ -527,7 +515,7 @@ color: #443626;
     position: absolute;
     top: 120px;
     left: 20px;
-    width: 100%;
+    width: 40%;
     display: flex;
    
     opacity: 1;
@@ -539,7 +527,8 @@ color: #443626;
     position: absolute;
     top: 0px;
     height: 60%;
-    width: 100%;
+    width:100vw;
+    height: 50vh;
 
     border: 3px solid #836e40;
   }

@@ -108,7 +108,7 @@ const handleToggle=()=>{
           {toggle ? <Icon icon={x} size={28} /> : <Icon icon={menu} size={28} />}
         </div>
 
-        <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
+        <div className= {toggle ? ' inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
         <ul className='links batsand '>
           
           <a href="#roadmap" onClick={handleToggle}>
