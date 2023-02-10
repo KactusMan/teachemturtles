@@ -3,7 +3,7 @@ import './App.css';
 import Main from './components/hero';
 import { Navbar } from "./components/navbar"
 import Roadmap from './components/roadmap';
-import Poker from './components/poker';
+
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
     <Navbar/>
     <Main/>
     <Roadmap/>    
-    <Poker/>
+    
     
     
     </div>
