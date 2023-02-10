@@ -151,7 +151,41 @@ function Roadmap() {
                                                           {/* team section */}
         
         
-
+               <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
+                          <h1 className=" z-30   absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5rem] sm:mx-[40%] md:my-[145%] md:text-[5rem] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7rem] xl:my-[140%] 2xl:my-[120%] 2xl:mx-[40.2%]  xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[15rem]"> TEAM </h1>
+                    <h1 className=" z-20  absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5rem] sm:mx-[40%]  md:my-[145%] md:text-[5rem] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7rem] xl:my-[140.9%] 2xl:my-[120%]  2xl:mx-[39.8%] 2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[15rem]"> TEAM </h1>
+               
+        
+        <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[140%] xl:my-[160%]">
+               
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+              
+        
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/grid-1.png" alt="grid" />
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[16%]  absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[38%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[38%] 2xl:my-[18%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+        
+                
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7rem] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+        
+        
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7rem]"> lorem <br /> ipsumlorem  </h3>
+        
+        
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <h3 className= " sm:text-[0.8rem] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+        
+        
+                <img className=" sm:w-[55%] sm:pb-[30%] sm:mx-[15%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/grid-1.png" alt="grid" />
+                <h3 className=" sm:text-[0.8rem] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8rem] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5rem] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7rem] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7rem] "> lorem <br /> ipsumlorem  </h3>
+        
+        
+         {/* team section ending */}
+                                                        
+                                </div>
+                       </div>
 
 
 
