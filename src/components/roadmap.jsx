@@ -220,7 +220,7 @@ function Roadmap() {
         
         
 
-        <div className="absolute h-[500px] md:my-[310%] 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[220%]  xl:my-[240%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:top-[3450px] overflow-y-auto 2xl:h-[500px] ">
+        <div className="absolute h-[500px] md:my-[310%] 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[220%]  xl:my-[240%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
