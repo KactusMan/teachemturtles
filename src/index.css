@@ -27,7 +27,7 @@ color: #FFD664;
 .inner-dummy {
 
   font-family: 'Montserrat';
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
   line-height: 22px;
   font-style: italic;
   color: #654A20;
@@ -101,6 +101,8 @@ color: #FFD664;
 
 .join-social {
   font-family: 'Montserrat';
+  
+
   /* font-size: 1.5rem; */
   /* line-height: 22px; */
   /* font-style:normal; */
@@ -237,9 +239,9 @@ html, body {
 
  
 }
-/* * {
+* {
   outline: solid 1px red;
-} */
+}
 
 
 
