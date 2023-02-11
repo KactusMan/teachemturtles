@@ -490,6 +490,25 @@ color: #443626;
   display: none
 }
 
+@media only screen and (min-width: 767px) and (max-width:768px) {
+  
+  .tablet {
+    background-color: #EBC677;
+    z-index: -10; 
+    height: 280%;
+  }
+
+  .tablet-faq {
+    margin-top: 66%;
+  }
+
+  .tablet-footer {
+    margin-top: 60%;
+  }
+
+}
+
+
 @media(min-width: 320px) and (max-width: 768px) {
   .navbar{
     position: relative;
@@ -572,6 +591,17 @@ left: 20px;
     
     
   }
+
+  
+
+
+
+
+
+
+
+
+
 }
 
 
