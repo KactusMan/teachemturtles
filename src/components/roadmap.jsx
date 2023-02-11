@@ -23,8 +23,8 @@ function Roadmap() {
                     <img className=" sm:w-[12%] sm:top-[7%] sm:left-4 absolute md:left-6 md:w-[9%] md:top-[14%] lg:left-6 lg:top-[13%] xl:-z-0 xl:left-6 xl:top-[10%] 2xl:left-6 2xl:top-[10%] 2xl:w-[6%]" src="./assets/pebble-left.png" alt="left-pebble" />
                     
 
-                    <h1 className=" opacity-100  z-30 sm:w-1/2 sm:top-8 sm:text-[2.6em] sm:mx-[23%] md:w-screen md:top-12 md:text-[5em] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6em] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen    xl:mx-[34%] batsand xl:text-[7em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
-                    <h1 className=" opacity-100 z-20  sm:w-1/2 sm:top-8 sm:text-[2.6em] sm:mx-[22.2%] md:w-screen md:top-12 md:text-[5em] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6em] lg:mx-[28.5%] xl:top-20  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen  xl:mx-[33%] batsand-dark xl:text-[7em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
+                    <h1 className=" opacity-100  z-30 sm:w-1/2 sm:top-8 sm:text-[2.6em] sm:mx-[23%] md:w-screen md:top-12 md:text-[5em] md:mx-[20%] lg:w-screen  absolute lg:top-20 lg:text-[6em] lg:mx-[29.2%] xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
+                    <h1 className=" opacity-100 z-20  sm:w-1/2 sm:top-8 sm:text-[2.6em] sm:mx-[22.2%] md:w-screen md:top-12 md:text-[5em] md:mx-[19.2%] absolute lg:w-screen lg:top-20 lg:text-[6em] lg:mx-[28.5%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
                     <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
@@ -82,7 +82,7 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[70%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[10%] md:top-[70%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[77%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
@@ -99,12 +99,12 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[260%] md:h-[280%] xl:w-screen xl:h-[218%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[170%] " id="poker">
+<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[260%] md:h-[280%] xl:w-screen xl:h-[190%] lg:h-[200%] lg:w-screen 2xl:w-screen 2xl:h-[160%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
-        <h1 className=" opacity-100  sm:top-[1.7%] sm:mx-[50%] sm:text-[2.3em] sm:w-1/2 z-30  absolute md:w-screen md:top-[3%] md:mx-[48%] md:text-[4em] lg:w-screen lg:top-[1.5%] lg:mx-[50%] lg:text-[7em] xl:top-[1.5%] 2xl:top-0 2xl:mx-[51.2%]  2xl:mt-[10%] 2xl:leading-[110%] 2xl:w-max 2xl:text-[9em] xl:w-max   xl:mx-[47.9%]  poker xl:text-[130px] "> WE PLAY <br />   POKER TOO!  </h1>
-                    <h1 className=" opacity-100 sm:top-[1.7%] sm:mx-[50%] sm:text-[2.3em] sm:w-1/2 z-20 md:w-screen md:top-[3%] md:mx-[47.2%] md:text-[4em] lg:w-screen  absolute lg:top-[1.5%] lg:mx-[50%] lg:text-[7em] xl:top-[1.5%]  2xl:mx-[50.8%] 2xl:mt-[10%] 2xl:w-max 2xl:leading-[110%] 2xl:text-[9em] 2xl:top-4 xl:w-max  xl:mx-[47.4%] poker-dark xl:text-[130px] "> WE PLAY <br /> POKER TOO!  </h1>
+        <h1 className=" opacity-100  sm:top-[1.7%] sm:mx-[50%] sm:text-[2.3em] sm:w-1/2 z-30  absolute md:w-screen md:top-[3%] md:mx-[48%] md:text-[4em] lg:w-screen lg:top-[1.5%] lg:mx-[50%] lg:text-[7em] xl:top-[1.5%] 2xl:top-0 2xl:mx-[51.2%]  2xl:mt-[10%] 2xl:leading-[110%] 2xl:w-max 2xl:text-[9em] xl:w-max xl:text-[8em] xl:mt-[4%] xl:leading-[110%] xl:mx-[48.2%]  poker  "> WE PLAY <br />   POKER TOO!  </h1>
+                    <h1 className=" opacity-100 sm:top-[1.7%] sm:mx-[50%] sm:text-[2.3em] sm:w-1/2 z-20 md:w-screen md:top-[3%] md:mx-[47.2%] md:text-[4em] lg:w-screen  absolute lg:top-[1.5%] lg:mx-[50%] lg:text-[7em] xl:top-[1.5%]  2xl:mx-[50.8%] 2xl:mt-[10%] 2xl:w-max 2xl:leading-[110%] 2xl:text-[9em] 2xl:top-4 xl:w-max xl:text-[8em] xl:mt-[4%] xl:leading-[110%] xl:mx-[47.4%] poker-dark "> WE PLAY <br /> POKER TOO!  </h1>
         </div>        
                 
 
@@ -119,11 +119,11 @@ function Roadmap() {
                <div className=" sm:h-screen  sm:text-center lg:text-center xl:text-center 2xl:text-center   ">
         
                 
-        <h1 className=" absolute sm:top-0 sm:text-[2em] sm:mx-[25%] sm:w-1/2 md:top-1 md:text-[3em] md:mx-[37%] lg:top-1 lg:mx-[35%] lg:text-[4em] lg:text-center xl:break-words z-20 xl:top-2  2xl:top-0  2xl:mt-4 xl:mx-[34%] 2xl:text-[8em] xl:max-w-4xl 2xl:w-full  xl:text-center join xl:text-[80px] "> JOIN US!  </h1>
-        <h1 className=" absolute sm:top-0 sm:text-[2em] sm:mx-[25%] sm:w-1/2 md:top-1 md:text-[3em] md:mx-[36.2%] lg:top-1 lg:mx-[34.3%] lg:text-[4em] lg:text-center xl:break-words z-30 xl:top-2  2xl:top-0  2xl:mt-0 xl:mx-[34.8%] 2xl:text-[8em] xl:max-w-4xl 2xl:text-center 2xl:w-full     xl:text-center  join-dark xl:text-[80px] "> JOIN US!  </h1>
+        <h1 className=" absolute sm:top-0 sm:text-[2em] sm:mx-[25%] sm:w-1/2 md:top-1 md:text-[3em] md:mx-[37%] lg:top-1 lg:mx-[35%] lg:text-[4em] lg:text-center xl:break-words z-20 xl:top-2  2xl:top-0  2xl:mt-4  2xl:text-[8em] 2xl:w-full  xl:text-center xl:w-full join xl:text-[5em] xl:mt-2 "> JOIN US!  </h1>
+        <h1 className=" absolute sm:top-0 sm:text-[2em] sm:mx-[25%] sm:w-1/2 md:top-1 md:text-[3em] md:mx-[36.2%] lg:top-1 lg:mx-[34.3%] lg:text-[4em] lg:text-center xl:break-words z-30 xl:top-2  2xl:top-0  2xl:mt-0  2xl:text-[8em]  2xl:text-center 2xl:w-full  xl:w-full   xl:text-center  join-dark xl:text-[5em] "> JOIN US!  </h1>
          
-                    <h1 className=" join-lorem sm:text-[0.5em] sm:leading-[10px]  sm:my-[9%] sm:p-4 md:text-[1em] md:mt-[8%] md:leading-5 md:p-4 lg:p-4 lg:text-[1.1em] lg:mt-[8%] xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%]  2xl:text-[1.5em] "> We love poker! We have poker events planned every week with other communities as well as every Friday our own & sometimes with collabs. In the prize pools we give out eth prizes or NFTs to the winners. Teach Em Turtles is about having fun & giving back to our community! </h1>
-                        <h6 className="join-social sm:font-extrabold sm:text-[0.5em] sm:-my-[18.5%] sm:p-4 md:text-[0.9em] md:pl-4 2xl:mt-8 lg:text-[1em] 2xl:text-[1.4em]"> <b> Don't miss our next event! Check our twitter     
+                    <h1 className=" join-lorem sm:text-[0.5em] sm:leading-[10px]  sm:my-[9%] sm:p-4 md:text-[1em] md:mt-[8%] md:leading-5 md:p-4 lg:p-4 lg:text-[1.1em] lg:mt-[8%] xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%]  2xl:text-[1.5em] xl:text-[1.2em]"> We love poker! We have poker events planned every week with other communities as well as every Friday our own & sometimes with collabs. In the prize pools we give out eth prizes or NFTs to the winners. Teach Em Turtles is about having fun & giving back to our community! </h1>
+                        <h6 className="join-social sm:font-extrabold sm:text-[0.5em] sm:-my-[18.5%] sm:p-4 md:text-[0.9em] md:pl-4 2xl:mt-8 lg:text-[1em] 2xl:text-[1.4em] xl:text-[1.1em]"> <b> Don't miss our next event! Check our twitter     
                                 
                                 <span className="p-2">
                                 <a href="twitter.com/teachemturtles">
@@ -158,10 +158,10 @@ function Roadmap() {
         
         <div className="absolute sm:w-[100%]  md:w-screen lg:w-screen xl:w-screen 2xl:w-[100%]  " id="ecosytem">
         
-        <h1 className=" z-30 sm:text-[2em] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5em] md:mx-[25%] md:my-[78%] absolute lg:my-[70%] lg:mx-[28.2%] lg:w-max lg:text-[7em]  xl:my-[73%] 2xl:my-[70%]   xl:w-max  xl:mx-[34%]   batsand xl:text-[120px] 2xl:w-full text-center 2xl:leading-[110%]  2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
-             <h1 className=" z-20 sm:text-[2em] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5em] md:mx-[24.2%] md:my-[78%]  absolute lg:my-[70%] lg:mx-[29%] lg:w-max lg:text-[7em] xl:my-[72.4%] 2xl:my-[70%]   2xl:top-4 xl:w-max xl:mx-[34%]   batsand-dark 2xl:w-full text-center  2xl:leading-[110%] xl:text-[120px] 2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
+        <h1 className=" z-30 sm:text-[2em] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5em] md:mx-[25%] md:my-[78%] absolute lg:my-[70%] lg:mx-[28.2%] lg:w-max lg:text-[7em]  xl:my-[72.3%] 2xl:my-[70%]      batsand xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center 2xl:leading-[110%]  2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
+             <h1 className=" z-20 sm:text-[2em] sm:mx-[32%] sm:w-1/2 sm:my-[105%] md:text-[5em] md:mx-[24.2%] md:my-[78%]  absolute lg:my-[70%] lg:mx-[29%] lg:w-max lg:text-[7em] xl:my-[73%] 2xl:my-[70%]   2xl:top-4    batsand-dark xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center  2xl:leading-[110%] 2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
 
-          <h4 className=" absolute lorem sm:my-[125%] sm:text-center md:text-[1em] sm:text-[0.7em] sm:leading-3 sm:p-10 md:leading-[125%] md:p-10 md:my-[105%] lg:text-center lg:p-10 lg:my-[100%] lg:text-[0.9em] text-center xl:text-center xl:p-14 xl:my-[105%] 2xl:my-[87%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
+          <h4 className=" absolute lorem sm:my-[125%] sm:text-center md:text-[1em] sm:text-[0.7em] sm:leading-3 sm:p-10 md:leading-[125%] md:p-10 md:my-[105%] lg:text-center lg:p-10 lg:my-[100%] lg:text-[0.9em] text-center xl:text-center xl:pl-40 xl:pr-40 xl:my-[90%] xl:leading-[140%] 2xl:my-[87%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
         </div>
 
 
@@ -172,11 +172,11 @@ function Roadmap() {
         
         
                <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30   absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5em] sm:mx-[40%] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7em] xl:my-[140%] 2xl:my-[107%] w-full text-center xl:w-max  xl:mx-[42%]    batsand xl:text-[120px]  2xl:text-[8em]"> TEAM </h1>
-                    <h1 className=" z-20  absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5em] sm:mx-[40%]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7em] xl:my-[140.9%] 2xl:my-[107%] w-full text-center  2xl:top-4 xl:w-max xl:mx-[42%]   batsand-dark xl:text-[120px] 2xl:text-[8em]"> TEAM </h1>
+                          <h1 className=" z-30   absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5em] sm:mx-[40%] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[125%] lg:max lg:mx-[41%] lg:text-[7em] xl:my-[130%] 2xl:my-[107%] w-full text-center xl:w-full      batsand xl:text-[5em]  2xl:text-[8em]"> TEAM </h1>
+                    <h1 className=" z-20  absolute sm:my-[205%] sm:w-1/2 sm:text-[2.5em] sm:mx-[40%]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[125%]  lg:max lg:mx-[40.2%] lg:text-[7em] xl:my-[130.9%] 2xl:my-[107%] w-full text-center  2xl:top-4 xl:w-full    batsand-dark xl:text-[5em] 2xl:text-[8em]"> TEAM </h1>
                
         
-        <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[120%] xl:my-[160%]">
+        <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[140%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[120%] xl:my-[145%]">
                
                 <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[23.3%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/grid-1.png" alt="grid" />
                 {/* <h3 className=" sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </h3> */}
@@ -213,14 +213,14 @@ function Roadmap() {
         
         
                          <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" sm:text-[2.5em] sm:w-1/2 sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[290%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7em] xl:my-[220%] 2xl:my-[170%]  xl:w-max  xl:mx-[40%]    batsand xl:text-[120px] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2.5em] sm:w-1/2 sm:mx-[38%] sm:my-[360%] md:text-[5em] md:mx-[39.2%] md:my-[290%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7em] xl:my-[220.9%] 2xl:my-[170%]  2xl:top-4 xl:w-max xl:mx-[40%]   batsand-dark xl:text-[120px] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 className=" sm:text-[2.5em] sm:w-1/2 sm:mx-[38%] sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[290%] absolute lg:w-max lg:my-[200%] lg:mx-[40%] lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2.5em] sm:w-1/2 sm:mx-[38%] sm:my-[360%] md:text-[5em] md:mx-[39.2%] md:my-[290%] absolute lg:w-max  lg:my-[200%] lg:mx-[39.2%] lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute h-[500px] md:my-[310%] 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[220%]  xl:my-[240%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
+        <div className="absolute h-[500px] md:my-[310%] 2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[220%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -237,9 +237,9 @@ function Roadmap() {
 
 {/* rocks section */}
 <div className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-        <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[380%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[270%] xl:w-[40%] xl:justify-end xl:my-[295%] xl:mx-[59%] 2xl:w-[45%] 2xl:justify-end absolute 2xl:my-[220%] 2xl:mx-[55%]" src="./assets/right-rock.png" alt="right-rock" />
-        <img className=" sm:w-[10%] sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[390%]  lg:w-[4%] lg:mx-[50%] lg:my-[279%] xl:w-[4%] absolute xl:justify-center xl:my-[305%] xl:mx-[44%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[235%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
-        <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[390%]  lg:w-[10%] lg:mx-[10%] lg:my-[279%] xl:w-[10%] absolute xl:justify-start xl:my-[305%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[235%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
+        <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[380%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[270%] xl:w-[30%] xl:justify-end xl:my-[255%] xl:mx-[70%] 2xl:w-[35%] 2xl:justify-end absolute 2xl:my-[225%] 2xl:mx-[63.9%]" src="./assets/right-rock.png" alt="right-rock" />
+        <img className=" sm:w-[10%] sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[390%]  lg:w-[4%] lg:mx-[50%] lg:my-[279%] xl:w-[4%] absolute xl:justify-center xl:my-[264%] xl:mx-[52%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[235%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
+        <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[390%]  lg:w-[10%] lg:mx-[10%] lg:my-[279%] xl:w-[10%] absolute xl:justify-start xl:my-[264%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[235%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
         </div>
 
 
@@ -247,7 +247,7 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[550%] md:w-screen md:h-[210px] md:my-[410%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[320%] footer-bg 2xl:my-[254%] 2xl:h-[300px]">
+        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[550%] md:w-screen md:h-[210px] md:my-[410%] lg:h-[250px]  lg:my-[290%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[275%] footer-bg 2xl:my-[244%] 2xl:h-[300px]">
 
 <img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[14%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2 2xl:mx-[4%] xl:mx-[4%] xl:my-[1%] 2xl:my-[1%]" src="./assets/turtle-logo.png" alt="footer-logo" />
 
