@@ -113,7 +113,7 @@ function Roadmap() {
                 
         
         
-        <div className="absolute sm:w-[80%] sm:h-[16%] sm:top-[130%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%]  2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
+        <div className="absolute sm:w-[80%] sm:h-[16%] sm:top-[110%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%]  2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
                
                         
                <div className=" sm:h-screen  sm:text-center lg:text-center xl:text-center 2xl:text-center   ">
