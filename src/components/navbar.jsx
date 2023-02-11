@@ -47,50 +47,52 @@ const handleToggle=()=>{
 
       {/* left div, div 1 of grid */}
 
-      <div className="div1 sm:hidden  md:bottom-[50%]   lg:p-10 lg:bottom-[37%] relative xl:bottom-[6%] xl:p-10  2xl:p-10 2xl:bottom-[6%]">
+      <div className="div1 sm:hidden  md:bottom-[50%]   lg:p-10 lg:bottom-[37%] relative  xl:p-4  2xl:p-10 2xl:bottom-[6%]">
         <hr className="hr-div-1 lg:w-[110%] lg:mb-[1em]  xl:w-[106%] xl:mb-[1.5em] 2xl:w-[100%] 2xl:mx-[2.2%] 2xl:mb-[1.5em]" />
-
-        <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] lg:-mx-[7%] xl:text-[15px] 2xl:text-[22px]   lg:p-10   xl:p-10 2xl:p-10 2xl:mx-[2%] relative  ">Whitepaper</span>
-
+        
+        <a href="./assets/Turtle-Whitepaper.pdf" target="_blank" rel="noopener noreferrer">
+        <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] lg:-mx-[4%] xl:text-[15px] 2xl:text-[22px]   lg:p-8   xl:p-5 2xl:p-10 2xl:mx-[2%] relative  ">Whitepaper</span>
+        </a>
+        
         <a href="#roadmap">
-          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px]  lg:p-10   xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Roadmap</span>
+          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px]  lg:p-8  xl:p-5  2xl:p-10 2xl:mx-[2%] relative">Roadmap</span>
         </a>
 
         <a href="#faq">
-          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">FAQ</span>
+          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-8  xl:p-5  2xl:p-10 2xl:mx-[2%] relative">FAQ</span>
         </a>
 
 
         <a href="#team">
-          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-10  xl:p-10  2xl:p-10 2xl:mx-[2%] relative">Team</span>
+          <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-8  xl:p-5  2xl:p-10 2xl:mx-[2%] relative">Team</span>
         </a>
 
 
       </div>
 
 
-      <div className="logo-div bg-cover sm:w-[15%] sm:bg-cover sm:right-[3%] sm:bottom-[5%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[26%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
+      <div className="logo-div bg-cover sm:w-[15%] sm:bg-cover sm:right-[3%] sm:bottom-[5%] sm:absolute  relative md:w-[100%] md:left-[10%] md:bottom-[100%] lg:w-[100%] lg:bottom-[55%] xl:w-[100%] xl:bottom-[34%] xl:left-[5%] lg:left-[15%]  2xl:w-[100%] 2x:w-[100%] 2xl:left-[27%] 2xl:bottom-[26%]">
       <img className="logo bg-cover" src="./assets/turtle-logo.png" alt="turtles" />
     </div>
 
       {/* right div, div 2 of grid */}
 
-      <div className="div2 md:bottom-[50%] sm:hidden  lg:p-10  lg:bottom-[37%]  xl:p-10 lg:mx-[-4.9%]  relative   xl:bottom-[6%] 2xl:p-10 2xl:bottom-[6%]">
+      <div className="div2 md:bottom-[50%] sm:hidden  lg:p-10  lg:bottom-[37%]  xl:p-6 lg:mx-[-4.9%]  relative   2xl:p-10 ">
         <hr className="hr-div-2 lg:w-[86%] lg:mx-[5%] lg:mb-[1em] xl:w-[93%] xl:mb-[1.5em] 2xl:w-[100%]" />
 
         <a href="discord.gg/teachemturtles">
-          <img className=" disc-img md:w-[6%] md:top-[9%] md:mx-[4%]   lg:w-[20px] lg:mx-[12%] lg:top-[3.3%]  xl:mx-[8%]  xl:w-[24px] 2xl:w-[45px] 2xl:top-[20%] 2xl:mx-[8%] relative" src="./assets/Discord-icon.png" alt="discord" />
+          <img className=" disc-img md:w-[6%] md:top-[9%] md:left-[25%]   lg:w-[5%]  lg:left-[30%] lg:top-[12%]    xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[30%] 2xl:w-[5%] 2xl:absolute 2xl:left-[30%] 2xl:top-[35%]  relative" src="./assets/Discord-icon.png" alt="discord" />
         </a>
 
 
         <a href="twitter.com/teachemturtles">
-          <img className=" twitter-img md:w-[6%] md:mx-[19%] md:-my-[1.9%] lg:w-[20px] lg:mx-[26%] lg:bottom-[15%]  xl:mx-[24%] xl:w-[24px] xl:bottom-[20%] 2xl:w-[45px] 2xl:mx-[24%] 2xl:bottom-[10%] relative" src="./assets/Twitter-icon.png" alt="twitter" />
+          <img className=" twitter-img md:w-[6%] md:left-[45%] md:-my-[1.9%] lg:w-[5%]  lg:left-[50%] lg:bottom-[17%]   xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[50%] xl:bottom-[20%] 2xl:w-[5%] 2xl:absolute 2xl:top-[35%] 2xl:left-[60%]  relative" src="./assets/Twitter-icon.png" alt="twitter" />
         </a>
 
-        <a href="https://opensea.io">
+        {/* <a href="https://opensea.io">
           <span className="os manrope-light md:text-[10px] md:p-4 md:left-[10%] md:top-[-17%]  xl:text-[15px]  xl:w-10  xl:p-8 lg:text-[12px] lg:mx-[9%] xl:mx-[7%] 2xl:mx-[14%]  lg:p-8 2xl:p-8 2xl:text-[22px] 2xl:mt-4 ">Opensea</span>
         </a>
-        <span className="wallet manrope-light md:text-[10px] md:p-4 md:left-[10%] md:top-[-17%] xl:text-[15px]  xl:p-8 lg:text-[12px] lg:-mx-[14%] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span>
+        <span className="wallet manrope-light md:text-[10px] md:p-4 md:left-[10%] md:top-[-17%] xl:text-[15px]  xl:p-8 lg:text-[12px] lg:-mx-[14%] xl:mx-[-12%] 2xl:mx-[-14%] lg:p-8 2xl:p-8 2xl:text-[22px] ">Connect Wallet</span> */}
 
       </div>
 
@@ -111,6 +113,12 @@ const handleToggle=()=>{
         <div className= {toggle ? 'inner-div 2xl:hidden xl:hidden lg:hidden md:hidden' : '2xl:hidden xl:hidden lg:hidden md:hidden'}>
         <ul className='links batsand '>
           
+
+        <a href="./assets/Turtle-Whitepaper.pdf" >
+          <li>WHITEPAPER</li>
+          </a>
+
+
           <a href="#roadmap" onClick={handleToggle}>
           <li>ROADMAP</li>
           </a>
