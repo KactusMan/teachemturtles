@@ -178,27 +178,27 @@ function Roadmap() {
         
         <div id="team" className="absolute sm:my-[222%] md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[120%] xl:my-[145%]">
                
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[23.3%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/Turtle-god.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[40.3%]  md:w-[50%] md:pb-[30%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] 2xl:pb-[35%] xl:w-[50%] xl:mx-[22%] xl:pb-[35%]" src="./assets/Turtle-god.png" alt="grid" />
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[16%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]  team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%] 2xl:my-[18%] 2xl:mx-[9.5%] 2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
               
         
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/Ryhis-king.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[46.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/Ryhis-king.png" alt="grid" />
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:mx-[46%] sm:my-[16%]  absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[38%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[38%] 2xl:my-[18%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
                 
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/hacsnack.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[40.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/hacsnack.png" alt="grid" />
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/kactusman.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[46.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/kactusman.png" alt="grid" />
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7em]"> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[23.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/Falcon.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[40.3%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/Falcon.png" alt="grid" />
                 {/* <span className= "span-grid sm:text-[0.6em] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[24.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/suki.png" alt="grid" />
+                <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[46.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/suki.png" alt="grid" />
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
@@ -213,14 +213,14 @@ function Roadmap() {
         
         
                          <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[340%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[341%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[361%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[350%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
+        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
