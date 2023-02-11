@@ -186,26 +186,26 @@ function Roadmap() {
                 <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>
         
                 
-                {/* <img className=" sm:w-[53%] sm:pb-[30%] sm:left-[40%] sm:relative  md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/blah.svg" alt="grid" /> */}
-                {/* <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%]" src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
               
                 
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                {/* <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[46.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/blah.svg" alt="grid" /> */}
-                {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:mx-[46%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[4%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[4%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[9.5%]   2xl:text-[1.7em]"> lorem <br /> ipsumlorem  </span> */}
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%]  " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+              
         
-        
-                {/* <img className=" sm:w-[53%] sm:pb-[30%] sm:left-[40%] sm:relative md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/blah.svg" alt="grid" /> */}
-                {/* <img  className="  absolute sm:left-[20%] sm:top-[90%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%]  " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
               
                 {/* <span className= "span-grid sm:text-[0.6em] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                {/* <img className=" sm:w-[53%] sm:pb-[30%] sm:mx-[46.2%] md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%]" src="./assets/blah.svg" alt="grid" /> */}
-                {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2 sm:mx-[46%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[72%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[71.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
-        
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%]  " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+              
         
          {/* team section ending */}
                                                         
