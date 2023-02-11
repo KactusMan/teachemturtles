@@ -213,14 +213,14 @@ function Roadmap() {
         
         
                          <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[350%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[351%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[340%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[341%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[370%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
+        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[350%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
