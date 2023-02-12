@@ -158,10 +158,10 @@ function Roadmap() {
         
         <div className="absolute sm:w-[100%]  md:w-screen lg:w-screen xl:w-screen 2xl:w-[100%]  " id="ecosytem">
         
-        <h1 className=" z-30 sm:text-[2em] sm:w-full  sm:my-[105%] md:text-[5em] md:w-full  md:my-[79%] md:leading-[110%] absolute lg:my-[70%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[72.3%] 2xl:my-[70%]      batsand xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center 2xl:leading-[110%]  2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
-             <h1 className=" z-20 sm:text-[2em] sm:w-full sm:my-[106%] md:text-[5em] md:w-full  md:my-[79.8%] md:leading-[110%]  absolute lg:my-[71%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[73%] 2xl:my-[70%]   2xl:top-4    batsand-dark xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center  2xl:leading-[110%] 2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
+        <h1 className=" z-30 sm:text-[2em] sm:w-full  sm:my-[105%] md:text-[5em] md:w-full  md:my-[79%] md:leading-[110%] absolute lg:my-[70%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[72.3%] 2xl:my-[80%]      batsand xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center 2xl:leading-[110%]  2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
+             <h1 className=" z-20 sm:text-[2em] sm:w-full sm:my-[106%] md:text-[5em] md:w-full  md:my-[79.8%] md:leading-[110%]  absolute lg:my-[71%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[73%] 2xl:my-[80%]   2xl:top-4    batsand-dark xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center  2xl:leading-[110%] 2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
 
-          <h4 className=" absolute lorem sm:my-[131%] sm:text-center md:text-[1em] sm:text-[0.7em] sm:leading-[127%] sm:pl-10 sm:pr-10 md:leading-[125%] md:p-10 md:my-[100%] lg:text-center lg:p-10 lg:my-[85%] lg:leading-[110%] lg:pl-40 lg:pr-40 lg:text-[1em] text-center xl:text-center xl:pl-40 xl:pr-40 xl:my-[90%] xl:leading-[140%] 2xl:my-[87%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
+          <h4 className=" absolute lorem sm:my-[131%] sm:text-center md:text-[1em] sm:text-[0.7em] sm:leading-[127%] sm:pl-10 sm:pr-10 md:leading-[125%] md:p-10 md:my-[100%] lg:text-center lg:p-10 lg:my-[85%] lg:leading-[110%] lg:pl-40 lg:pr-40 lg:text-[1em] text-center xl:text-center xl:pl-40 xl:pr-40 xl:my-[90%] xl:leading-[140%] 2xl:my-[97%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
         </div>
 
 
@@ -172,11 +172,11 @@ function Roadmap() {
         
         
                <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30   absolute sm:my-[205%] sm:text-center sm:w-full  sm:text-[2em] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[110%] lg:w-full  lg:text-[5em] xl:my-[130%] 2xl:my-[107%]  text-center xl:w-full  2xl:w-full  2xl:text-center   batsand xl:text-[5em]  2xl:text-[8em]"> TEAM </h1>
-                    <h1 className=" z-20  absolute sm:my-[206%] sm:text-center sm:w-full sm:text-[2em]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[111%]  lg:w-full  lg:text-[5em] xl:my-[130.9%] 2xl:my-[107%]  text-center  2xl:top-4 xl:w-full  2xl:w-full 2xl:text-center  batsand-dark xl:text-[5em] 2xl:text-[8em]"> TEAM </h1>
+                          <h1 className=" z-30   absolute sm:my-[205%] sm:text-center sm:w-full  sm:text-[2em] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[110%] lg:w-full  lg:text-[5em] xl:my-[130%] 2xl:my-[117%]  text-center xl:w-full  2xl:w-full  2xl:text-center   batsand xl:text-[5em]  2xl:text-[8em]"> TEAM </h1>
+                    <h1 className=" z-20  absolute sm:my-[206%] sm:text-center sm:w-full sm:text-[2em]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[111%]  lg:w-full  lg:text-[5em] xl:my-[130.9%] 2xl:my-[117%]  text-center  2xl:top-4 xl:w-full  2xl:w-full 2xl:text-center  batsand-dark xl:text-[5em] 2xl:text-[8em]"> TEAM </h1>
                
         
-        <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[120%] xl:my-[145%]">
+        <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[130%] xl:my-[145%]">
                
                 <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/blah.svg" alt="grid" />
                 <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] xl:left-[15%] xl:top-[53%]  xl:w-[14%] lg:w-[13%] lg:left-[15%] lg:top-[53%] md:w-[13%] md:left-[15%] md:top-[54%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[53%]"  src="./assets/twitter-group.svg" alt="grid-team"/>  
@@ -218,14 +218,14 @@ function Roadmap() {
         
         
                          <div id="#faq" className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[170%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[361%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[170%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[361%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[180%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[180%] overflow-y-auto 2xl:h-[500px] ">
+        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
