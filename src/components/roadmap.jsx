@@ -217,15 +217,15 @@ function Roadmap() {
                                                 {/* FAQ section */}
         
         
-                         <div id="#faq" className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                         <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
+                          <h1 id="faq" className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
                     <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[361%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[180%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
+        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -252,7 +252,7 @@ function Roadmap() {
                                                         {/* footer section */}
         <div className="absolute tablet-footer sm:w-screen md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
         
-        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[530%] md:w-screen md:h-[210px] md:my-[350%] lg:h-[258px]  lg:my-[270%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[275%] footer-bg 2xl:my-[244%] 2xl:h-[300px]">
+        <div className="absolute sm:w-full sm:h-[250px] huawei-footer sm:my-[530%] md:w-screen md:h-[210px] md:my-[350%] lg:h-[258px]  lg:my-[270%] lg:w-screen  xl:w-screen 2xl:w-screen xl:h-[300px] xl:my-[275%] footer-bg 2xl:my-[254%] 2xl:h-[320px]">
 
 <img className=" sm:w-[30%] sm:absolute sm:p-2 sm:my-[3%] sm:mx-[1%] md:w-[16%]  md:p-2 md:my-[3%] md:mx-[1%] lg:w-[14%]  lg:p-2 lg:mx-[4%] lg:my-[1%] 2xl:w-[12%] 2xl:left-[5%] 2xl:absolute 2xl:top-[9%] xl:w-[16%] bg-cover 2xl:p-2 xl:p-2  xl:mx-[4%] xl:my-[1%] " src="./assets/turtle-logo.png" alt="footer-logo" />
 

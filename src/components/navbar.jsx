@@ -133,7 +133,7 @@ const handleToggle=()=>{
           <a href="#team" onClick={handleToggle}>
           <li>TEAM</li>
           </a>
-          <a href="Faq" onClick={handleToggle}>
+          <a href="#faq" onClick={handleToggle}>
           <li>FAQ</li>
           </a>
         </ul>
