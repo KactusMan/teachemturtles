@@ -82,7 +82,7 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[72%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
@@ -178,33 +178,33 @@ function Roadmap() {
         
         <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[120%] xl:my-[145%]">
                
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%]  " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] xl:left-[15%] xl:top-[53%]  xl:w-[14%] lg:w-[13%] lg:left-[15%] lg:top-[53%] md:w-[13%] md:left-[15%] md:top-[54%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[53%]"  src="./assets/twitter-group.svg" alt="grid-team"/>  
               
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:left-[15%] sm:relative md:w-[50%] md:pb-[35%] md:mx-[30%] lg:w-[50%] lg:pb-[35%] lg:mx-[30%] 2xl:w-[50%] 2xl:mx-[22%] xl:w-[50%] xl:mx-[22%] " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:left-[15%] sm:relative  lg:w-[50%] lg:left-[20%] lg:relative  xl:w-[50%] xl:mx-[22%] md:relative md:w-[50%] md:left-[20%]  2xl:w-[50%] 2xl:relative 2xl:left-[20%]" src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] xl:left-[41.5%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[41.5%] lg:top-[53%]   md:w-[13%] md:left-[42%] md:top-[54%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[53%] " src="./assets/twitter-group.svg" alt="grid-team"/>
         
                 
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%]" src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[10%] lg:w-[50%] lg:left-[40%] md:relative md:w-[50%] 2xl:w-[50%] 2xl:relative   " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] xl:left-[71%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[68%] lg:top-[53%] md:w-[13%] md:left-[68%] md:top-[54%]  2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[53%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
               
                 
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%]  " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%] xl:relative xl:left-[40%] xl:top-[56%] lg:w-[50%] lg:left-[40%] lg:relative lg:top-[40%] md:relative md:left-[40%] md:top-[50%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] 2xl:top-[40%]" src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] xl:left-[14%] xl:top-[131%]  xl:w-[15%] lg:w-[13%] lg:left-[15%] lg:top-[123%] md:w-[13%] md:left-[15%] md:top-[129%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[122%]   " src="./assets/twitter-group.svg" alt="grid-team"/>  
               
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%]  " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[23%] xl:top-[56%] lg:w-[50%] lg:left-[20%] lg:relative lg:top-[40%] md:relative md:w-[50%] md:left-[20%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:left-[20%] 2xl:top-[40%] " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] xl:top-[131%]  xl:left-[41.5%]  xl:w-[15%] lg:left-[41.5%] lg:top-[123%] lg:w-[13%]   md:w-[13%] md:left-[42%] md:top-[130%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[122%]" src="./assets/twitter-group.svg" alt="grid-team"/>  
               
                 {/* <span className= "span-grid sm:text-[0.6em] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%]  " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[4%]   lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[4%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[4%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%]  xl:relative xl:left-[10%] xl:top-[56%] lg:w-[50%]  lg:top-[40%] lg:relative md:relative md:w-[50%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:top-[40%] " src="./assets/blah.svg" alt="grid" />
+                <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] xl:top-[131%]  xl:left-[71%]  xl:w-[15%] lg:left-[68%] lg:top-[123%] lg:w-[13% md:w-[13%] md:left-[68%] md:top-[129%] 2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[122%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
               
         
          {/* team section ending */}
