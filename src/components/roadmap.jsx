@@ -126,7 +126,7 @@ function Roadmap() {
                         <h6 className="join-social sm:font-extrabold sm:text-[0.5em]  sm:-my-[18.5%] sm:p-5 md:text-[0.8em] md:pt-3 md:text-center 2xl:mt-8 lg:text-[1em] 2xl:text-[1.4em] xl:text-[1.1em]"> <b> Don't miss our next event! Check our twitter     
                                 
                                 <span className="p-2">
-                                <a href="twitter.com/teachemturtles">
+                                <a href="https://twitter.com/teachemturtles">
                                 @teachemturtles 
                                 </a>
                                 </span>
@@ -134,7 +134,7 @@ function Roadmap() {
                                 &
 
                                 <span className="p-2">
-                                <a href="discord.gg/teachemturtles">
+                                <a href="https://discord.gg/teachemturtles">
                                 discord 
                                 </a>
                                 </span>
@@ -261,12 +261,17 @@ function Roadmap() {
  {/* <h5 className=" sm:text-[0.6em] sm:mx-[3%] sm:w-[1%] sm:my-[6.5%] md:text-[0.8em] md:mx-[70%] md:my-[2%] md:w-max absolute footer-text lg:text-[1em] lg:mx-[70%] lg:my-[2%] lg:w-max 2xl:my-[6%] 2xl:mx-[68%] xl:mx-[70%] xl:my-[3%] xl:w-screen 2xl:w-screen 2xl:text-[1.7em]  xl:text-[1.3em] og-font 2xl:text-left uppercase"> og / wl spots inquiries </h5> */}
 {/* <h6 className=" sm:text-[0.6em] sm:mx-[3%] sm:leading-3   sm:my-[13.5%] md:text-[0.7em] md:mx-[70%] md:my-[6%]  md:leading-5 md:w-max absolute footer-text lg:text-[1em] lg:mx-[66%] lg:my-[5%] lg:w-max 2xl:my-[9%] 2xl:mx-[68%] 2xl:w-screen 2xl:text-[1.5em] xl:w-screen xl:mx-[69%] xl:my-[7%]  xl:text-[1em] og-text 2xl:text-left "> Missed out on the OG spots? We can get <br /> you  whitelist too? submit your email </h6> */}
 
-<img className="absolute sm:w-[4%] sm:left-[34%] sm:top-[50%]  md:w-[3%] md:left-[23%] md:top-[75%]  lg:w-[2%] lg:left-[25%] lg:top-[75%] 2xl:w-[2.2%] xl:w-[2.4%] bg-cover xl:left-[30%] xl:top-[75%]  2xl:left-[30%] 2xl:top-[75%]   " src="./assets/Discord-icon.png" alt="discord-icon" />            
-<span className="sm:text-[0.5em]  sm:absolute sm:left-[40%] sm:top-[50%]  md:text-[0.8em] md:absolute md:left-[28%] md:top-[75%] discord-text lg:text-[0.7em] lg:absolute lg:left-[28%] lg:top-[75%]  xl:text-[0.9em] xl:left-[34%] xl:top-[76%] xl:absolute 2xl:text-[1.3em] 2xl:left-[33%] 2xl:top-[74%] 2xl:absolute uppercase">Discord</span>
+<a href="https://discord.gg/teachemturtles">
 
+<img className="absolute sm:w-[4%] sm:left-[34%] sm:top-[50%]  md:w-[3%] md:left-[23%] md:top-[75%]  lg:w-[2%] lg:left-[25%] lg:top-[75%] 2xl:w-[2.2%] xl:w-[2.4%] bg-cover xl:left-[30%] xl:top-[75%]  2xl:left-[30%] 2xl:top-[75%]   " src="./assets/Discord-icon.png" alt="discord-icon" />      
+</a>
+
+<span className="sm:text-[0.5em]  sm:absolute sm:left-[40%] sm:top-[50%]  md:text-[0.8em] md:absolute md:left-[28%] md:top-[75%] discord-text lg:text-[0.7em] lg:absolute lg:left-[28%] lg:top-[75%]  xl:text-[0.9em] xl:left-[34%] xl:top-[76%] xl:absolute 2xl:text-[1.3em] 2xl:left-[33%] 2xl:top-[75%] 2xl:absolute uppercase">Discord</span>
+
+<a href="https://twitter.com/teachemturtles">
 <img className="absolute sm:w-[4%] sm:left-[55%] sm:top-[50%] md:w-[3%] md:left-[40%] md:top-[75%] lg:w-[2%] lg:left-[40%] lg:top-[75%] 2xl:w-[2.2%] xl:w-[2.4%] xl:left-[45%] xl:top-[75%] bg-cover 2xl:left-[45%] 2xl:top-[75%]   " src="./assets/Twitter-icon.png" alt="twitter-icon" />            
-
-<span className=" sm:text-[0.5em] sm:absolute sm:left-[61%] sm:top-[50%] md:text-[0.8em] md:left-[45%] md:top-[75%] md:absolute   discord-text lg:absolute lg:text-[0.7em] lg:left-[43%] lg:top-[75%]   xl:absolute xl:text-[0.9em] xl:left-[49%] xl:top-[76%] 2xl:text-[1.3em] 2xl:left-[48%] 2xl:absolute 2xl:top-[74%]   uppercase">@teachemturtles</span>
+</a>
+<span className=" sm:text-[0.5em] sm:absolute sm:left-[61%] sm:top-[50%] md:text-[0.8em] md:left-[45%] md:top-[75%] md:absolute   discord-text lg:absolute lg:text-[0.7em] lg:left-[43%] lg:top-[75%]   xl:absolute xl:text-[0.9em] xl:left-[49%] xl:top-[76%] 2xl:text-[1.3em] 2xl:left-[48%] 2xl:absolute 2xl:top-[75%]   uppercase">@teachemturtles</span>
 
 
 

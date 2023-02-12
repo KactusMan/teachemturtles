@@ -80,13 +80,13 @@ const handleToggle=()=>{
       <div className="div2 md:bottom-[50%] sm:hidden  lg:p-10  lg:bottom-[37%]  xl:p-6 lg:mx-[-4.9%]  relative   2xl:p-10 ">
         <hr className="hr-div-2 lg:w-[86%] lg:mx-[5%] lg:mb-[1em] xl:w-[93%] xl:mb-[1.5em] 2xl:w-[100%]" />
 
-        <a href="discord.gg/teachemturtles">
-          <img className=" disc-img md:w-[6%] md:top-[9%] md:left-[25%]   lg:w-[5%]  lg:left-[30%] lg:top-[12%]    xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[30%] 2xl:w-[5%] 2xl:absolute 2xl:left-[30%] 2xl:top-[35%]  relative" src="./assets/Discord-icon.png" alt="discord" />
+        <a href="https://discord.gg/teachemturtles">
+          <img className=" disc-img md:w-[6%] md:top-[10%] md:left-[70%]   lg:w-[5%]  lg:left-[70%] lg:top-[12%]    xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[60%] 2xl:w-[5%] 2xl:absolute 2xl:left-[70%] 2xl:top-[35%]  relative" src="./assets/Discord-icon.png" alt="discord" />
         </a>
 
 
-        <a href="twitter.com/teachemturtles">
-          <img className=" twitter-img md:w-[6%] md:left-[45%] md:-my-[1.9%] lg:w-[5%]  lg:left-[50%] lg:bottom-[17%]   xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[50%] xl:bottom-[20%] 2xl:w-[5%] 2xl:absolute 2xl:top-[35%] 2xl:left-[60%]  relative" src="./assets/Twitter-icon.png" alt="twitter" />
+        <a href="https://twitter.com/teachemturtles">
+          <img className=" twitter-img md:w-[6%] md:left-[85%] md:-my-[2%] lg:w-[5%]  lg:left-[80%] lg:bottom-[18%]   xl:w-[5.5%] xl:absolute xl:top-[28%] xl:left-[70%] xl:bottom-[20%] 2xl:w-[5%] 2xl:absolute 2xl:top-[35%] 2xl:left-[80%]  relative" src="./assets/Twitter-icon.png" alt="twitter" />
         </a>
 
         {/* <a href="https://opensea.io">
