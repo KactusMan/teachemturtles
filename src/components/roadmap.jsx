@@ -172,8 +172,8 @@ function Roadmap() {
         
         
                <div  className="absolute sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-                          <h1 className=" z-30   absolute sm:my-[205%] sm:text-center sm:w-full  sm:text-[2em] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[110%] lg:w-full  lg:text-[5em] xl:my-[130%] 2xl:my-[117%]  text-center xl:w-full  2xl:w-full  2xl:text-center   batsand xl:text-[5em]  2xl:text-[8em]"> TEAM </h1>
-                    <h1 className=" z-20  absolute sm:my-[206%] sm:text-center sm:w-full sm:text-[2em]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[111%]  lg:w-full  lg:text-[5em] xl:my-[130.9%] 2xl:my-[117%]  text-center  2xl:top-4 xl:w-full  2xl:w-full 2xl:text-center  batsand-dark xl:text-[5em] 2xl:text-[8em]"> TEAM </h1>
+                          <h1 className=" z-30   absolute sm:my-[205%] sm:text-center sm:w-full  sm:text-[2.3em] md:my-[145%] md:text-[5em] md:max md:mx-[40%] lg:my-[110%] lg:w-full  lg:text-[5em] xl:my-[130%] 2xl:my-[117%]  text-center xl:w-full  2xl:w-full  2xl:text-center   batsand xl:text-[5em]  2xl:text-[8em]"> TEAM </h1>
+                    <h1 className=" z-20  absolute sm:my-[206%] sm:text-center sm:w-full sm:text-[2.3em]  md:my-[145%] md:text-[5em] md:max md:mx-[39.2%] lg:my-[111%]  lg:w-full  lg:text-[5em] xl:my-[130.9%] 2xl:my-[117%]  text-center  2xl:top-4 xl:w-full  2xl:w-full 2xl:text-center  batsand-dark xl:text-[5em] 2xl:text-[8em]"> TEAM </h1>
                
         
         <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[130%] xl:my-[145%]">
@@ -218,14 +218,14 @@ function Roadmap() {
         
         
                          <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 id="faq" className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[380%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[381%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[180%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 id="faq" className=" sm:text-[2.3em] sm:w-full sm:text-center sm:my-[380%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[200%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2.3em] sm:w-full sm:text-center sm:my-[381%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[200%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[400%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
+        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[400%] huawei sm:h-[350px] 2xl:my-[210%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -242,7 +242,7 @@ function Roadmap() {
 
 {/* rocks section */}
 <div className="absolute sm:w-[100%] tablet  md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-        <img className=" sm:w-[45%] sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[325%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[250%] xl:w-[30%] xl:justify-end xl:my-[255%] xl:mx-[70%] 2xl:w-[35%] 2xl:justify-end absolute 2xl:my-[225%] 2xl:mx-[63.9%]" src="./assets/right-rock.png" alt="right-rock" />
+        <img className=" sm:w-[45%] 2xl:-z-10 sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[325%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[250%] xl:w-[30%] xl:justify-end xl:my-[255%] xl:mx-[70%] 2xl:w-[35%] 2xl:justify-end absolute 2xl:my-[225%] 2xl:mx-[63.9%]" src="./assets/right-rock.png" alt="right-rock" />
         <img className=" sm:w-[10%]  sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[335%]  lg:w-[4%] lg:mx-[50%] lg:my-[259%] xl:w-[4%] absolute xl:justify-center xl:my-[264%] xl:mx-[52%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[235%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
         <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[335%]  lg:w-[10%] lg:mx-[10%] lg:my-[259%] xl:w-[10%] absolute xl:justify-start xl:my-[264%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[235%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
         </div>
