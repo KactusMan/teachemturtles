@@ -26,7 +26,7 @@ function Roadmap() {
                     <h1 className=" opacity-100  z-30  sm:text-[3em] sm:w-screen sm:leading-[110%] sm:text-center sm:top-8 md:w-screen md:top-12 md:text-[5em] md:text-center md:leading-[110%] lg:w-screen lg:text-center  absolute lg:top-20 lg:text-[7em] lg:leading-[100%] lg: xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
                     <h1 className=" opacity-100 z-20   sm:text-[3em]  sm:w-screen sm:leading-[110%] sm:text-center sm:top-9 md:w-screen md:top-14 md:text-[5em] md:text-center md:leading-[110%] absolute lg:w-screen lg:text-center lg:top-24 lg:text-[7em] lg:leading-[100%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
-                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[17%] sm:mx-[10%] sm:top-[16.5%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
+                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[17%] sm:mx-[10%] sm:top-[18.5%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
                         
                                 <div className=" sm:text-center md:text-center xl:text-center 2xl:text-center lg:text-center  ">
@@ -43,7 +43,7 @@ function Roadmap() {
                     <div className="">
                             <img className=" opacity-100 z-100 xl:my-[0.01%]   " src="./assets/texture-2.png" alt="texture" />
                            
-                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[36%]  box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[43%]  border lg:w-[70%] lg:top-[40%] lg:h-[10%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[38%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[46%]  opactiy-80 div-road  xl:mx-[13.9%]">
+                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[38%]  box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[43%]  border lg:w-[70%] lg:top-[40%] lg:h-[10%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[38%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[46%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center z-10 ">
@@ -65,7 +65,7 @@ function Roadmap() {
                 <img className=" opacity-100 z-100 xl:my-[0.01%]  " src="./assets/curve-texture.png" alt="texture" />
                            
                            
-                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[53%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[62%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[53.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
+                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[55%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[62%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[53.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
@@ -82,7 +82,7 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[17.8%] sm:mx-[10%] sm:top-[70%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[17.8%] sm:mx-[10%] z-10 sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
