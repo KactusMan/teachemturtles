@@ -23,8 +23,8 @@ function Roadmap() {
                     <img className=" sm:w-[12%] sm:top-[7%] sm:left-4 absolute md:left-6 md:w-[9%] md:top-[14%] lg:left-6 lg:top-[13%] xl:-z-0 xl:left-6 xl:top-[10%] 2xl:left-6 2xl:top-[10%] 2xl:w-[6%]" src="./assets/pebble-left.png" alt="left-pebble" />
                     
 
-                    <h1 className=" opacity-100  z-30  sm:text-[2em] sm:w-screen sm:leading-[110%] sm:text-center sm:top-8 md:w-screen md:top-12 md:text-[5em] md:text-center md:leading-[110%] lg:w-screen lg:text-center  absolute lg:top-20 lg:text-[7em] lg:leading-[100%] lg: xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
-                    <h1 className=" opacity-100 z-20   sm:text-[2em]  sm:w-screen sm:leading-[110%] sm:text-center sm:top-9 md:w-screen md:top-14 md:text-[5em] md:text-center md:leading-[110%] absolute lg:w-screen lg:text-center lg:top-24 lg:text-[7em] lg:leading-[100%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
+                    <h1 className=" opacity-100  z-30  sm:text-[3em] sm:w-screen sm:leading-[110%] sm:text-center sm:top-8 md:w-screen md:top-12 md:text-[5em] md:text-center md:leading-[110%] lg:w-screen lg:text-center  absolute lg:top-20 lg:text-[7em] lg:leading-[100%] lg: xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
+                    <h1 className=" opacity-100 z-20   sm:text-[3em]  sm:w-screen sm:leading-[110%] sm:text-center sm:top-9 md:w-screen md:top-14 md:text-[5em] md:text-center md:leading-[110%] absolute lg:w-screen lg:text-center lg:top-24 lg:text-[7em] lg:leading-[100%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
                     <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
@@ -32,7 +32,7 @@ function Roadmap() {
                                 <div className=" sm:text-center md:text-center xl:text-center 2xl:text-center lg:text-center  ">
         
                                         <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
-                                        <h6 className="inner-dummy sm:text-[0.5em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
+                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
                                 </div>
                                 
         
@@ -50,7 +50,7 @@ function Roadmap() {
         
        
         <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
-                                        <h6 className="inner-dummy sm:text-[0.5em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
+                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
         </div>
         
         
@@ -72,7 +72,7 @@ function Roadmap() {
         
                
         <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
-                                        <h6 className="inner-dummy sm:text-[0.5em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
+                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
         </div>
         
         
@@ -82,14 +82,14 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[14.5%] sm:mx-[10%] sm:top-[72%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
                
                       
                <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
-                                               <h6 className="inner-dummy sm:pr-6 sm:pl-6  sm:text-[0.5em] sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
+                                               <h6 className="inner-dummy sm:pr-6 sm:pl-6  sm:text-[0.6em] sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
                </div>
                
                
@@ -99,7 +99,7 @@ function Roadmap() {
 {/* poker section starting from here */}
         
         
-<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[255%]  md:h-[240%] xl:w-screen xl:h-[190%] lg:h-[188%] lg:w-screen 2xl:w-screen 2xl:h-[160%] " id="poker">
+<div className="absolute roadmap-bg sm:w-[100%] md:w-screen sm:h-[255%]  md:h-[240%] xl:w-screen xl:h-[190%] lg:h-[188%] lg:w-screen 2xl:w-screen 2xl:h-[164%] " id="poker">
         
         <img className=" sm:w-[64%] sm:mt-10 md:mt-16 md:w-[65%] lg:mt-20 lg:w-[60%] xl:mt-20 2xl:mt-20 2xl:w-[66%]" src="./assets/poker-table.png" alt="poker-table" />
         
@@ -113,7 +113,7 @@ function Roadmap() {
                 
         
         
-        <div className="absolute sm:w-[80%] sm:h-[17%] sm:top-[120%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%]  2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
+        <div className="absolute sm:w-[80%] sm:h-[18%] sm:top-[120%] sm:mx-[11%] md:w-[80%] md:h-[18%] md:top-[130%] md:mx-[10%] box-1 lg:w-[80%] lg:h-[16%] lg:top-[126%] lg:mx-[10%]  roadmap-bg  border xl:w-[80%] 2xl:w-[80%]  2xl:h-[14%] 2xl:top-[119%] 2xl:mt-40 2xl:mx-[10.9%] xl:h-[16%] xl:top-[128%]  opactiy-80  xl:mx-[11%]">
                
                         
                <div className=" sm:h-screen  sm:text-center lg:text-center xl:text-center 2xl:text-center   ">
@@ -122,10 +122,10 @@ function Roadmap() {
         <h1 className=" absolute sm:top-1 sm:text-[2em] sm:w-full md:top-2 md:text-[3em] md:w-full md:text-center lg:top-3 lg:w-full lg:text-[4em] lg:text-center xl:break-words z-20 xl:top-2  2xl:top-0  2xl:mt-4  2xl:text-[8em] 2xl:w-full  xl:text-center xl:w-full join xl:text-[5em] xl:mt-2 "> JOIN US!  </h1>
         <h1 className=" absolute sm:top-0 sm:text-[2em] sm:w-full md:top-1 md:text-[3em] md:w-full md:text-center lg:top-1 lg:w-full lg:text-[4em] lg:text-center xl:break-words z-30 xl:top-2  2xl:top-0  2xl:mt-0  2xl:text-[8em]  2xl:text-center 2xl:w-full  xl:w-full   xl:text-center  join-dark xl:text-[5em] "> JOIN US!  </h1>
          
-                    <h1 className=" join-lorem sm:text-[0.5em] sm:leading-[10px]  sm:my-[9%] sm:p-4 md:text-[0.9em] md:mt-[12%] md:leading-5 md:text-center lg:text-center md:pl-7 md:pr-7 lg:p-4 lg:text-[1.1em] lg:mt-[8%] xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%]  2xl:text-[1.5em] xl:text-[1.2em]"> We love poker! We have poker events planned every week with other communities as well as every Friday our own & sometimes with collabs. In the prize pools we give out eth prizes or NFTs to the winners. Teach Em Turtles is about having fun & giving back to our community! </h1>
-                        <h6 className="join-social sm:font-extrabold sm:text-[0.5em]  sm:-my-[18.5%] sm:p-5 md:text-[0.8em] md:pt-3 md:text-center 2xl:mt-8 lg:text-[1em] 2xl:text-[1.4em] xl:text-[1.1em]"> <b> Don't miss our next event! Check our twitter     
+                    <h1 className=" join-lorem sm:text-[0.6em] sm:leading-[10px]  sm:my-[12%] sm:p-4 md:text-[0.9em] md:mt-[12%] md:leading-5 md:text-center lg:text-center md:pl-7 md:pr-7 lg:p-4 lg:text-[1.1em] lg:mt-[8%] xl:p-7 xl:text-center xl:mt-24 2xl:mt-[13%]  2xl:text-[1.5em] xl:text-[1.2em]"> We love poker! We have poker events planned every week with other communities as well as every Friday our own & sometimes with collabs. In the prize pools we give out eth prizes or NFTs to the winners. Teach Em Turtles is about having fun & giving back to our community! </h1>
+                        <h6 className="join-social sm:font-extrabold sm:text-[0.6em]  sm:-my-[20.5%] sm:p-5 md:text-[0.8em] md:pt-3 md:text-center 2xl:mt-8 lg:text-[1em] 2xl:text-[1.4em] xl:text-[1.1em]"> <b> Don't miss our next event! Check our twitter     
                                 
-                                <span className="p-2">
+                                <span className="p-[0.5%]">
                                 <a href="https://twitter.com/teachemturtles">
                                 @teachemturtles 
                                 </a>
@@ -133,7 +133,7 @@ function Roadmap() {
                                 
                                 &
 
-                                <span className="p-2">
+                                <span className="p-[0.5%]">
                                 <a href="https://discord.gg/teachemturtles">
                                 discord 
                                 </a>
@@ -161,7 +161,7 @@ function Roadmap() {
         <h1 className=" z-30 sm:text-[2em] sm:w-full  sm:my-[105%] md:text-[5em] md:w-full  md:my-[79%] md:leading-[110%] absolute lg:my-[70%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[72.3%] 2xl:my-[80%]      batsand xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center 2xl:leading-[110%]  2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
              <h1 className=" z-20 sm:text-[2em] sm:w-full sm:my-[106%] md:text-[5em] md:w-full  md:my-[79.8%] md:leading-[110%]  absolute lg:my-[71%]  lg:w-full lg:text-[5em] lg:leading-[110%] xl:my-[73%] 2xl:my-[80%]   2xl:top-4    batsand-dark xl:text-[5em] xl:w-full xl:leading-[110%] 2xl:w-full text-center  2xl:leading-[110%] 2xl:text-[8em]"> ECOSYSTEM <br /> &nbsp; FRIENDLY  </h1>
 
-          <h4 className=" absolute lorem sm:my-[131%] sm:text-center md:text-[1em] sm:text-[0.7em] sm:leading-[127%] sm:pl-10 sm:pr-10 md:leading-[125%] md:p-10 md:my-[100%] lg:text-center lg:p-10 lg:my-[85%] lg:leading-[110%] lg:pl-40 lg:pr-40 lg:text-[1em] text-center xl:text-center xl:pl-40 xl:pr-40 xl:my-[90%] xl:leading-[140%] 2xl:my-[97%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
+          <h4 className=" absolute lorem sm:my-[131%] sm:text-center md:text-[1em] sm:text-[0.8em] sm:leading-[100%] sm:pl-10 sm:pr-10 md:leading-[125%] md:p-10 md:my-[100%] lg:text-center lg:p-10 lg:my-[85%] lg:leading-[110%] lg:pl-40 lg:pr-40 lg:text-[1em] text-center xl:text-center xl:pl-40 xl:pr-40 xl:my-[90%] xl:leading-[140%] 2xl:my-[97%] 2xl:pl-60 2xl:pr-60 2xl:leading-[160%]"> We are an ecosystem friendly project with goals of helping the environment. Turtles are a core part of the ecosystem which is where the project derives the core essence from. The people we have worked with and who we plan on working with are Green Team, Team Seas & many more to come.   <br /> Educating others: Educating friends and family about environmental issues, and encouraging them to take action, can help create a larger network of environmentally conscious individuals. <br /> To put it simply, we are raising awareness about the horrors of our planet's reality. We have worked with T.R.E.E Inc & organized beach clean ups. There is a lot more we would like to do and we would like our community to participate and help out as well. Every month or two we have IRL events where we meet with the founders AND WE contribute a little to the world </h4>
         </div>
 
 
@@ -178,33 +178,33 @@ function Roadmap() {
         
         <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[130%] xl:my-[145%]">
                
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] xl:left-[15%] xl:top-[53%]  xl:w-[14%] lg:w-[13%] lg:left-[15%] lg:top-[53%] md:w-[13%] md:left-[15%] md:top-[54%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[53%]"  src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/Founder.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] xl:left-[15%] xl:top-[53%]  xl:w-[14%] lg:w-[13%] lg:left-[15%] lg:top-[53%] md:w-[13%] md:left-[15%] md:top-[54%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[53%]"  src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:left-[15%] sm:relative  lg:w-[50%] lg:left-[20%] lg:relative  xl:w-[50%] xl:mx-[22%] md:relative md:w-[50%] md:left-[20%]  2xl:w-[50%] 2xl:relative 2xl:left-[20%]" src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] xl:left-[41.5%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[41.5%] lg:top-[53%]   md:w-[13%] md:left-[42%] md:top-[54%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[53%] " src="./assets/twitter-group.svg" alt="grid-team"/>
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:left-[15%] sm:relative  lg:w-[50%] lg:left-[20%] lg:relative  xl:w-[50%] xl:mx-[22%] md:relative md:w-[50%] md:left-[20%]  2xl:w-[50%] 2xl:relative 2xl:left-[20%]" src="./assets/Cofounder.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] xl:left-[41.5%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[41.5%] lg:top-[53%]   md:w-[13%] md:left-[42%] md:top-[54%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[53%] " src="./assets/twitter-group.svg" alt="grid-team"/> */}
         
                 
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[10%] lg:w-[50%] lg:left-[40%] md:relative md:w-[50%] 2xl:w-[50%] 2xl:relative   " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] xl:left-[71%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[68%] lg:top-[53%] md:w-[13%] md:left-[68%] md:top-[54%]  2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[53%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[10%] lg:w-[50%] lg:left-[40%] md:relative md:w-[50%] 2xl:w-[50%] 2xl:relative   " src="./assets/Hac.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] xl:left-[71%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[68%] lg:top-[53%] md:w-[13%] md:left-[68%] md:top-[54%]  2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[53%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
                 
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%] xl:relative xl:left-[40%] xl:top-[56%] lg:w-[50%] lg:left-[40%] lg:relative lg:top-[40%] md:relative md:left-[40%] md:top-[50%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] 2xl:top-[40%]" src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] xl:left-[14%] xl:top-[131%]  xl:w-[15%] lg:w-[13%] lg:left-[15%] lg:top-[123%] md:w-[13%] md:left-[15%] md:top-[129%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[122%]   " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%] xl:relative xl:left-[40%] xl:top-[56%] lg:w-[50%] lg:left-[40%] lg:relative lg:top-[40%] md:relative md:left-[40%] md:top-[50%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] 2xl:top-[40%]" src="./assets/Kactus.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] xl:left-[14%] xl:top-[131%]  xl:w-[15%] lg:w-[13%] lg:left-[15%] lg:top-[123%] md:w-[13%] md:left-[15%] md:top-[129%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[122%]   " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[23%] xl:top-[56%] lg:w-[50%] lg:left-[20%] lg:relative lg:top-[40%] md:relative md:w-[50%] md:left-[20%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:left-[20%] 2xl:top-[40%] " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] xl:top-[131%]  xl:left-[41.5%]  xl:w-[15%] lg:left-[41.5%] lg:top-[123%] lg:w-[13%]   md:w-[13%] md:left-[42%] md:top-[130%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[122%]" src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[40%] xl:w-[50%] xl:relative xl:left-[23%] xl:top-[56%] lg:w-[50%] lg:left-[20%] lg:relative lg:top-[40%] md:relative md:w-[50%] md:left-[20%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:left-[20%] 2xl:top-[40%] " src="./assets/Falcon.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] xl:top-[131%]  xl:left-[41.5%]  xl:w-[15%] lg:left-[41.5%] lg:top-[123%] lg:w-[13%]   md:w-[13%] md:left-[42%] md:top-[130%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[122%]" src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
                 {/* <span className= "span-grid sm:text-[0.6em] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%]  xl:relative xl:left-[10%] xl:top-[56%] lg:w-[50%]  lg:top-[40%] lg:relative md:relative md:w-[50%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:top-[40%] " src="./assets/blah.svg" alt="grid" />
-                <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] xl:top-[131%]  xl:left-[71%]  xl:w-[15%] lg:left-[68%] lg:top-[123%] lg:w-[13% md:w-[13%] md:left-[68%] md:top-[129%] 2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[122%]  " src="./assets/twitter-group.svg" alt="grid-team"/>  
+                <img className=" sm:w-[50%] sm:pb-[30%] sm:relative sm:left-[15%] xl:w-[50%]  xl:relative xl:left-[10%] xl:top-[56%] lg:w-[50%]  lg:top-[40%] lg:relative md:relative md:w-[50%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:top-[40%] " src="./assets/Suk.svg" alt="grid" />
+                {/* <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] xl:top-[131%]  xl:left-[71%]  xl:w-[15%] lg:left-[68%] lg:top-[123%] lg:w-[13% md:w-[13%] md:left-[68%] md:top-[129%] 2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[122%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
          {/* team section ending */}

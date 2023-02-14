@@ -16,6 +16,22 @@
 }
 
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  width: 10.24px;
+  border-radius: 7.48437px;
+  background-color: #836e40;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #FFFDC3;
+  border-radius: 7.48437px;
+}
+
+
+
 
 .manrope-light {
   font-family: 'Manrope', sans-serif;
