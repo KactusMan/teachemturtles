@@ -31,7 +31,7 @@ function Roadmap() {
                         
                                 <div className=" sm:text-center md:text-center xl:text-center 2xl:text-center lg:text-center  ">
         
-                                        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
+                                        <h4 className="dummy-1 sm:text-[1.3em] sm:pb-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
                                 </div>
                                 
@@ -49,7 +49,7 @@ function Roadmap() {
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center z-10 ">
         
        
-        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]   xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:pb-[0.5%] md:text-[1.3em]   xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
         </div>
         
@@ -71,7 +71,7 @@ function Roadmap() {
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
         
                
-        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:pb-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
         </div>
         
@@ -88,7 +88,7 @@ function Roadmap() {
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
                
                       
-               <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
+               <h4 className="dummy-1 sm:text-[1.3em] sm:pb-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
                                                <h6 className="inner-dummy  sm:pr-6 sm:pl-6  sm:text-[0.68em] sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
                </div>
                

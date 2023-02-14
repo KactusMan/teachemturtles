@@ -217,8 +217,8 @@ color: #FFD664;
 } */
 
 .box-1 {
-  box-shadow: -18px 12px 2px 5px rgba(170, 147, 122, 0.74);
-  /* rgba(63, 47, 29, 0.74) rgba(131, 108, 83, 0.74); */
+  box-shadow: -8px 8px  rgba(63, 47, 29, 0.74);
+
   /* border-radius: 11px 10px 10px 100px; */
 -webkit-border-radius: 20px 20px 20px 20px;
 
