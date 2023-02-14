@@ -26,12 +26,12 @@ function Roadmap() {
                     <h1 className=" opacity-100  z-30  sm:text-[3em] sm:w-screen sm:leading-[110%] sm:text-center sm:top-8 md:w-screen md:top-12 md:text-[5em] md:text-center md:leading-[110%] lg:w-screen lg:text-center  absolute lg:top-20 lg:text-[7em] lg:leading-[100%] lg: xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
                     <h1 className=" opacity-100 z-20   sm:text-[3em]  sm:w-screen sm:leading-[110%] sm:text-center sm:top-9 md:w-screen md:top-14 md:text-[5em] md:text-center md:leading-[110%] absolute lg:w-screen lg:text-center lg:top-24 lg:text-[7em] lg:leading-[100%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
-                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[15%] sm:mx-[10%] sm:top-[16.5%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
+                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[17%] sm:mx-[10%] sm:top-[16.5%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
                         
                                 <div className=" sm:text-center md:text-center xl:text-center 2xl:text-center lg:text-center  ">
         
-                                        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
+                                        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
                                 </div>
                                 
@@ -43,13 +43,13 @@ function Roadmap() {
                     <div className="">
                             <img className=" opacity-100 z-100 xl:my-[0.01%]   " src="./assets/texture-2.png" alt="texture" />
                            
-                    <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[36%]  box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[43%]  border lg:w-[70%] lg:top-[40%] lg:h-[10%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[38%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[46%]  opactiy-80 div-road  xl:mx-[13.9%]">
+                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[36%]  box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[43%]  border lg:w-[70%] lg:top-[40%] lg:h-[10%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[38%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[46%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center z-10 ">
         
        
-        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]   xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
         </div>
         
@@ -65,13 +65,13 @@ function Roadmap() {
                 <img className=" opacity-100 z-100 xl:my-[0.01%]  " src="./assets/curve-texture.png" alt="texture" />
                            
                            
-                    <div className="absolute sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[53%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[62%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[53.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
+                    <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[53%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[62%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[53.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
         
                
-        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
                                         <h6 className="inner-dummy  sm:text-[0.72em] sm:pr-6 sm:pl-6 sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
         </div>
         
@@ -82,14 +82,14 @@ function Roadmap() {
         
            {/* 4th box */}
         
-           <div className="absolute sm:w-[80%] sm:h-[15%] sm:mx-[10%] sm:top-[70%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
+           <div className="absolute sm:w-[80%] sm:h-[17.8%] sm:mx-[10%] sm:top-[70%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[81%] lg:w-[70%] lg:top-[70%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[69.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[78%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
                         
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
                
                       
-               <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
-                                               <h6 className="inner-dummy  sm:pr-6 sm:pl-6  sm:text-[0.72em] sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
+               <h4 className="dummy-1 sm:text-[1.3em] sm:pt-[0.5%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
+                                               <h6 className="inner-dummy  sm:pr-6 sm:pl-6  sm:text-[0.68em] sm:-my-[4%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
                </div>
                
                
@@ -178,32 +178,32 @@ function Roadmap() {
         
         <div id="team" className="absolute sm:my-[222%] sm:w-full md:w-screen md:my-[165%]  lg:w-screen lg:my-[125%] xl:w-screen 2xl:w-screen team-grid 2xl:my-[130%] xl:my-[145%]">
                
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/Founder.svg" alt="grid" />
+                <img className=" object-cover sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[40%] lg:w-[50%] lg:left-[40%] lg:relative md:relative md:left-[40%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] " src="./assets/Founder.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[20%] sm:top-[23%] sm:w-[25%] xl:left-[15%] xl:top-[53%]  xl:w-[14%] lg:w-[13%] lg:left-[15%] lg:top-[53%] md:w-[13%] md:left-[15%] md:top-[54%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[53%]"  src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:left-[10%] sm:relative  lg:w-[50%] lg:left-[20%] lg:relative  xl:w-[50%] xl:mx-[22%] md:relative md:w-[50%] md:left-[20%]  2xl:w-[50%] 2xl:relative 2xl:left-[20%]" src="./assets/Cofounder.svg" alt="grid" />
+                <img className="object-cover sm:w-[60%] sm:pb-[30%] sm:left-[10%] sm:relative  lg:w-[50%] lg:left-[20%] lg:relative  xl:w-[50%] xl:mx-[22%] md:relative md:w-[50%] md:left-[20%]  2xl:w-[50%] 2xl:relative 2xl:left-[20%]" src="./assets/Cofounder.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[57%] sm:top-[23%] sm:w-[25%] xl:left-[41.5%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[41.5%] lg:top-[53%]   md:w-[13%] md:left-[42%] md:top-[54%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[53%] " src="./assets/twitter-group.svg" alt="grid-team"/> */}
         
                 
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[10%] lg:w-[50%] lg:left-[40%] md:relative md:w-[50%] 2xl:w-[50%] 2xl:relative   " src="./assets/Hac.svg" alt="grid" />
+                <img className="object-cover sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[10%] lg:w-[50%] lg:left-[40%] md:relative md:w-[50%] 2xl:w-[50%] 2xl:relative   " src="./assets/Hac.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[20%] sm:top-[56%] sm:w-[25%] xl:left-[71%] xl:top-[53%]  xl:w-[15%] lg:w-[13%] lg:left-[68%] lg:top-[53%] md:w-[13%] md:left-[68%] md:top-[54%]  2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[53%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
                 
                 {/* <span className="span-grid sm:text-[0.6em] sm:p-14 sm:w-1/2  sm:-mx-[3.5%] sm:my-[58%] absolute md:text-[0.8em] md:p-14 md:my-[13%] md:mx-[72%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[13%] lg:mx-[72%] xl:text-center xl:p-14 xl:text-[1.7em] xl:my-[15%] xl:mx-[71%] 2xl:my-[18%] 2xl:mx-[77%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[10%] xl:w-[50%] xl:relative xl:left-[40%] xl:top-[56%] lg:w-[50%] lg:left-[40%] lg:relative lg:top-[40%] md:relative md:left-[40%] md:top-[50%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] 2xl:top-[40%]" src="./assets/Kactus.svg" alt="grid" />
+                <img className="object-cover sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[10%] xl:w-[50%] xl:relative xl:left-[40%] xl:top-[56%] lg:w-[50%] lg:left-[40%] lg:relative lg:top-[40%] md:relative md:left-[40%] md:top-[50%] md:w-[50%] 2xl:w-[50%] 2xl:relative 2xl:left-[40%] 2xl:top-[40%]" src="./assets/Kactus.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[57%] sm:top-[56%] sm:w-[25%] xl:left-[14%] xl:top-[131%]  xl:w-[15%] lg:w-[13%] lg:left-[15%] lg:top-[123%] md:w-[13%] md:left-[15%] md:top-[129%] 2xl:w-[15%] 2xl:left-[14%] 2xl:top-[122%]   " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[23%] xl:top-[56%] lg:w-[50%] lg:left-[20%] lg:relative lg:top-[40%] md:relative md:w-[50%] md:left-[20%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:left-[20%] 2xl:top-[40%] " src="./assets/Falcon.svg" alt="grid" />
+                <img className="object-cover sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[30%] xl:w-[50%] xl:relative xl:left-[23%] xl:top-[56%] lg:w-[50%] lg:left-[20%] lg:relative lg:top-[40%] md:relative md:w-[50%] md:left-[20%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:left-[20%] 2xl:top-[40%] " src="./assets/Falcon.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[20%] sm:top-[89%] sm:w-[25%] md:text-[0.8em] xl:top-[131%]  xl:left-[41.5%]  xl:w-[15%] lg:left-[41.5%] lg:top-[123%] lg:w-[13%]   md:w-[13%] md:left-[42%] md:top-[130%] 2xl:w-[15%] 2xl:left-[41%] 2xl:top-[122%]" src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
                 {/* <span className= "span-grid sm:text-[0.6em] sm:p-14 sm:-mx-[3.5%] sm:my-[102%] absolute md:text-[0.8em] md:p-14 md:my-[43%] md:mx-[38%] team-lorem lg:text-[1.5em] lg:p-14 lg:my-[43%] lg:mx-[38%] xl:text-center xl:p-14 xl:my-[43%] xl:mx-[37.4%] xl:text-[1.7em] 2xl:my-[47%] 2xl:mx-[43%]  2xl:text-[1.7em] "> lorem <br /> ipsumlorem  </span> */}
         
         
-                <img className=" sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[10%] xl:w-[50%]  xl:relative xl:left-[10%] xl:top-[56%] lg:w-[50%]  lg:top-[40%] lg:relative md:relative md:w-[50%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:top-[40%] " src="./assets/Suk.svg" alt="grid" />
+                <img className="object-cover sm:w-[60%] sm:pb-[30%] sm:relative sm:left-[10%] xl:w-[50%]  xl:relative xl:left-[10%] xl:top-[56%] lg:w-[50%]  lg:top-[40%] lg:relative md:relative md:w-[50%] md:top-[54%] 2xl:w-[50%] 2xl:relative 2xl:top-[40%] " src="./assets/Suk.svg" alt="grid" />
                 {/* <img  className="  absolute sm:left-[57%] sm:top-[89%] sm:w-[25%] xl:top-[131%]  xl:left-[71%]  xl:w-[15%] lg:left-[68%] lg:top-[123%] lg:w-[13% md:w-[13%] md:left-[68%] md:top-[129%] 2xl:w-[15%] 2xl:left-[67.5%] 2xl:top-[122%]  " src="./assets/twitter-group.svg" alt="grid-team"/>   */}
               
         
@@ -218,14 +218,14 @@ function Roadmap() {
         
         
                          <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 id="faq" className=" sm:text-[2.3em] sm:w-full sm:text-center sm:my-[380%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[200%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2.3em] sm:w-full sm:text-center sm:my-[381%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[200%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 id="faq" className=" sm:text-[2.3em] sm:w-full sm:text-center sm:my-[400%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[200%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2.3em] sm:w-full sm:text-center sm:my-[401%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[200%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[400%] huawei sm:h-[350px] 2xl:my-[210%] overflow-y-auto 2xl:h-[500px] ">
+        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[420%] huawei sm:h-[350px] 2xl:my-[210%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
@@ -242,7 +242,7 @@ function Roadmap() {
 
 {/* rocks section */}
 <div className="absolute sm:w-[100%] tablet  md:w-screen lg:w-screen xl:w-screen 2xl:w-screen">
-        <img className=" sm:w-[45%] 2xl:-z-10 sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[325%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[250%] xl:w-[30%] xl:justify-end xl:my-[255%] xl:mx-[70%] 2xl:w-[35%] 2xl:justify-end absolute 2xl:my-[225%] 2xl:mx-[63.9%]" src="./assets/right-rock.png" alt="right-rock" />
+        <img className=" sm:w-[45%] -z-10 sm:mx-[55%] sm:my-[495%] md:w-[30%] md:mx-[70%] mx:justify-end md:my-[325%] lg:w-[30%] lg:mx-[70%] lg:justify-end lg:my-[250%] xl:w-[30%] xl:justify-end xl:my-[255%] xl:mx-[70%] 2xl:w-[35%] 2xl:justify-end absolute 2xl:my-[225%] 2xl:mx-[63.9%]" src="./assets/right-rock.png" alt="right-rock" />
         <img className=" sm:w-[10%]  sm:mx-[40%] sm:my-[505%] md:w-[7%] md:mx-[55%] mx:justify-end md:my-[335%]  lg:w-[4%] lg:mx-[50%] lg:my-[259%] xl:w-[4%] absolute xl:justify-center xl:my-[264%] xl:mx-[52%] 2xl:w-[6%] 2xl:justify-center 2xl:my-[235%] 2xl:mx-[40%]"  src="./assets/middle-rock.png" alt="middle-rock" />
         <img className=" sm:w-[10%] sm:mx-[5%] sm:my-[505%] md:w-[11%] md:mx-[5%] mx:justify-end md:my-[335%]  lg:w-[10%] lg:mx-[10%] lg:my-[259%] xl:w-[10%] absolute xl:justify-start xl:my-[264%] xl:mx-[7%] 2xl:w-[12%] 2xl:justify-start 2xl:my-[235%] 2xl:mx-[7%]" src="./assets/left-rock.png" alt="left-rock" />
         </div>
