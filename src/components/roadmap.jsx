@@ -26,13 +26,13 @@ function Roadmap() {
                     <h1 className=" opacity-100  z-30  sm:text-[3em] sm:w-screen sm:leading-[110%] sm:text-center sm:top-8 md:w-screen md:top-12 md:text-[5em] md:text-center md:leading-[110%] lg:w-screen lg:text-center  absolute lg:top-20 lg:text-[7em] lg:leading-[100%] lg: xl:top-20 2xl:top-0 2xl:text-center     2xl:mt-40 xl:w-screen  xl:text-center xl:leading-[110%]  batsand xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp; ROAD MAP   </h1>
                     <h1 className=" opacity-100 z-20   sm:text-[3em]  sm:w-screen sm:leading-[110%] sm:text-center sm:top-9 md:w-screen md:top-14 md:text-[5em] md:text-center md:leading-[110%] absolute lg:w-screen lg:text-center lg:top-24 lg:text-[7em] lg:leading-[100%] xl:top-24  2xl:text-center 2xl:mt-40 2xl:top-4 xl:w-screen xl:text-center xl:leading-[110%] batsand-dark xl:text-[8em] 2xl:w-screen 2xl:text-[9em] 2xl:leading-[110%]"> THE TURTLES <br /> &nbsp;  ROAD MAP   </h1>
          
-                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[13.4%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
+                    <div id="roadmap" className="absolute box-1 sm:w-[80%] sm:h-[14%] sm:mx-[10%] sm:top-[20%] md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[25%]   border lg:w-[70%] lg:h-[10%] lg:top-[25%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[22%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[29.2%]  div-road   z-10   xl:mx-[13.9%]">
         
                         
                                 <div className=" sm:text-center md:text-center xl:text-center 2xl:text-center lg:text-center  ">
         
-                                        <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
-                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
+                                        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%] ">Community Building</h4>
+                                        <h6 className="inner-dummy font-bold sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3 md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%] lg:text-[1em] 2xl:leading-7"> Mission is to build a community of entrepreneurs out of our holders where we all exist for the first phase with a community centric approach. Keeping the fun aspect of the project we will start with twitter & collaborate with projects as well network with other communities and other builders.  </h6>
                                 </div>
                                 
         
@@ -49,8 +49,8 @@ function Roadmap() {
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center z-10 ">
         
        
-        <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
-                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Poker Events & Building</h4>
+                                        <h6 className="inner-dummy font-bold sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Community will be built with one of its focuses being playing and participating in poker because we love poker! Collaborate with projects and get poker events lined up with other NFT Projects every week. </h6>
         </div>
         
         
@@ -71,8 +71,8 @@ function Roadmap() {
         <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
         
                
-        <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
-                                        <h6 className="inner-dummy sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
+        <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Voting & Community Funds </h4>
+                                        <h6 className="inner-dummy font-bold sm:text-[0.6em] sm:pr-6 sm:pl-6 sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10  2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> Early access to community will get the people a team role to build with us. 10% of the mint's revenue is allocated towards the Community Wallet. This will then be used for activities that the community votes on. </h6>
         </div>
         
         
@@ -88,8 +88,8 @@ function Roadmap() {
                <div className=" sm:text-center md:text-center xl:text-center lg:text-center 2xl:text-center ">
                
                       
-               <h4 className="dummy-1 sm:text-[0.9em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
-                                               <h6 className="inner-dummy sm:pr-6 sm:pl-6  sm:text-[0.6em] sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
+               <h4 className="dummy-1 sm:text-[1.3em] sm:-my-[3%] md:text-[1.3em]  xl:my-[2%] 2xl:my-[4%]">Metaverse Casino Compound</h4>
+                                               <h6 className="inner-dummy font-bold sm:pr-6 sm:pl-6  sm:text-[0.6em] sm:-my-[6%] sm:leading-3  md:text-[0.8em] md:leading-4 md:pl-10 md:pr-10 2xl:text-[1.5em] 2xl:p-4 2xl:-my-[3%]  lg:text-[1em] 2xl:leading-7"> We have partnered with MetaDream Studios to build a 3-story compound in the metaverse (Decentraland). The building has a museum on floor one, an investment firm on floor 2, and floor 3 a top tier gentlemen's club where members can literally gamble with crypto whether slots, black Jack or Texas hold ‘em.</h6>
                </div>
                
                
@@ -218,14 +218,14 @@ function Roadmap() {
         
         
                          <div  className="absolute tablet-faq sm:w-[100%] md:w-screen lg:w-screen xl:w-screen 2xl:w-screen ">
-                          <h1 id="faq" className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[360%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
-                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[361%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[180%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
+                          <h1 id="faq" className=" sm:text-[2em] sm:w-full sm:text-center sm:my-[380%]  z-30 md:text-[5em] md:mx-[40%] md:my-[230%] absolute lg:text-center lg:my-[180%] lg:w-full  lg:text-[7em] xl:my-[200%] 2xl:my-[180%]  xl:w-full xl:text-center      batsand xl:text-[5em] 2xl:w-full 2xl:text-center  2xl:text-[8em]"> FAQS </h1>
+                    <h1 className=" z-20 sm:text-[2em] sm:w-full sm:text-center sm:my-[381%] md:text-[5em] md:mx-[39.2%] md:my-[230%] absolute  lg:text-center lg:my-[181%] lg:w-full  lg:text-[7em] xl:my-[200.9%] 2xl:my-[180%]  2xl:top-4 xl:w-full  xl:text-center  batsand-dark xl:text-[5em] 2xl:w-full 2xl:text-center 2xl:text-[8em]"> FAQS </h1>
                
         {/* questions section */}
         
         
 
-        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[380%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
+        <div  className="absolute h-[500px] md:my-[250%]  2xl:p-10 2xl:w-[99%] xl:w-[99%] lg:w-[99%] lg:my-[200%]  xl:my-[210%] xl:p-10 md:w-[99%] sm:w-[99%] sm:my-[400%] huawei sm:h-[350px] 2xl:my-[190%] overflow-y-auto 2xl:h-[500px] ">
             {FaqData.map((items, index) => (
               <Faq question={items.question} answer={items.answer}/>
               
