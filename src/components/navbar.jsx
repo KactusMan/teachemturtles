@@ -63,7 +63,7 @@ const handleToggle=()=>{
         </a>
 
 
-        <a href="#team">
+        <a href="/mint" alt="mint">
           <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-8  xl:p-5  2xl:p-10 2xl:mx-[2%] relative">Team</span>
         </a>
 
