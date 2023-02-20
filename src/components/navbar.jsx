@@ -1,9 +1,9 @@
-
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 
 // import { useState, useEffect } from 'react';
 import { useState } from 'react';
+import { Link } from "react-router-dom";
 import {Icon} from 'react-icons-kit'
 import {menu} from 'react-icons-kit/feather/menu'
 import {x} from 'react-icons-kit/feather/x'
@@ -63,7 +63,7 @@ const handleToggle=()=>{
         </a>
 
 
-        <a href="/mint" alt="mint">
+        <a href="/mint">
           <span className=" manrope-light md:text-[10px]  md:p-4 lg:text-[12px] xl:text-[15px] 2xl:text-[22px] lg:p-8  xl:p-5  2xl:p-10 2xl:mx-[2%] relative">Team</span>
         </a>
 

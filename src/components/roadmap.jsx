@@ -1,4 +1,5 @@
 /* eslint-disable react/jsx-no-duplicate-props */
+// import { Link } from "react-router-dom";
 import { FaqData } from "./faq_data";
 import Faq from "./faq";
 
@@ -12,7 +13,7 @@ function Roadmap() {
         
         
                 <div className="   absolute roadmap-bg sm:h-[120%]   md:w-screen xl:w-screen lg:w-screen  2xl:h-[330%] ">
-                    <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.png" alt="texture" />
+                    <img className="  opacity-100 z-50 sm:h-[50%]  " src="./assets/texture-1.svg" alt="texture" />
                     <img className=" sm:w-[35%] sm:-my-[80%] absolute md:-z-0 md:-my-[35%] md:w-[35%] lg:-z-0 lg:-my-[35%] lg:w-[36%] xl:-z-0 xl:-my-[30%] 2xl:-z-0 2xl:-my-[34%] 2xl:w-[40%] " src="./assets/left-tree.png" alt="left-tree" />
                     <img className=" sm:w-[35%] sm:-my-[60%] sm:mx-[65%] absolute md:-z-0 md:mx-[60%] md:w-[40%] md:-my-[10%] lg:-z-0 lg:-my-[20%] lg:mx-[60%] lg:w-[40%] xl:-z-0  xl:mx-[60%] xl:w-[40%] xl:-my-[-4%] 2xl:-z-0 2xl:mx-[54%] 2xl:my-[-13%] 2xl:w-[46%] " src="./assets/right-tree.png" alt="right-tree" />
                    
@@ -41,7 +42,7 @@ function Roadmap() {
                     {/* 2nd box */}
         
                     <div className="">
-                            <img className=" opacity-100 z-100 xl:my-[0.01%]   " src="./assets/texture-2.png" alt="texture" />
+                            <img className=" opacity-100 z-100 xl:my-[0.01%]   " src="./assets/texture-2.svg" alt="texture" />
                            
                     <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[38%]  box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[43%]  border lg:w-[70%] lg:top-[40%] lg:h-[10%] lg:mx-[17%] xl:w-[70%] 2xl:w-[70%] 2xl:h-[10%] 2xl:top-[38%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[46%]  opactiy-80 div-road  xl:mx-[13.9%]">
                
@@ -62,7 +63,7 @@ function Roadmap() {
                            
         
           <div className=" ">
-                <img className=" opacity-100 z-100 xl:my-[0.01%]  " src="./assets/curve-texture.png" alt="texture" />
+                <img className=" opacity-100 z-100 xl:my-[0.01%]  " src="./assets/curve-texture.svg" alt="texture" />
                            
                            
                     <div className="absolute sm:w-[80%] sm:h-[14.8%] sm:mx-[10%] sm:top-[55%]   box-1 md:w-[70%] md:mx-[15%] md:h-[13.5%] md:top-[62%] lg:w-[70%] lg:top-[55%] lg:mx-[17%] lg:h-[10%]  border xl:w-[70%] 2xl:w-[70-%] 2xl:h-[10%] 2xl:top-[53.5%] 2xl:mt-40 2xl:mx-[15.9%] xl:h-[10%] xl:top-[62%]  opactiy-80 div-road  xl:mx-[13.9%]">
