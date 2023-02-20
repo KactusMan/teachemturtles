@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import dayImage from '../assets/final-morning.mp4';
-import nightImage from '../assets/final-night.mp4';
+import dayImage from '../components/assets/final-morning.mp4';
+import nightImage from '../components/assets/final-night.mp4';
 
 function MyComponent() {
   // Declare a new state variable, which we'll call "image"
